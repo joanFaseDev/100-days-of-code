@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 0: April 04, 2023
 
 **Today's Progress:** Added logic to change background color and make label text content match the new color value.
@@ -9,7 +10,7 @@
 **Link to work:** [Color Flipper](https://github.com/joanFaseDev/100-days-of-code-projects/commit/bdfc71ca11470bae9890601d7fef4de78c92b187)
 
 
-### Day 1: April 04, 2023
+### Day 1: April 05, 2023
 
 **Today's Progress:** Added logic to switch color systems, to initialize a random background color when document is refreshed and to change the document's font color based on the overall intensity of the documen's background color. Also gave the document a proper styling.
 
@@ -17,3 +18,12 @@
 This project is now finished, i'm satisfied with the result and will take some time today to plan tomorrow's next project.
 
 **Link to work:** [Color Flipper](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f3322f13c382ad0b4ed0992f3d8aca61fa1b1ff)
+
+
+### Day 2: April 06, 2023
+
+**Today's Progress:** I made a counter using vanilla JavaScript. A simple app where one can increment, decrement or reset the counter (by clicking on it). I added a very basic styling that automatically switch according to the counter being lesser or not to zero.
+
+**Thoughts:** The whole project was basic, just simple DOM manipulation and a little bit of styling. I learned how to access CSS variables from JavaScript which is something i never tried before. Even if i knew where i was going with this app it still took me a couple of hours to finish it. Probably because i have a tendancy to try and read things along the way. I don't think that's a problem, i'll get faster with practice. What's important is consistency and trying new things. Tomorrow will bring both.
+
+**Link to work:** [Counter](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ecb2c80181b48fcb93be57a80147d33fd3006fef)
