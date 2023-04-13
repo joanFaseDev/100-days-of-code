@@ -81,3 +81,12 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** I left this project half-finished. I started a job today (i'll be working five days a week during a month, nothing to do with programming) and the lack of time/rest made it difficult to focus on what i wrote yesterday. I still did enough for the application to be functional and visually decent. Unfortunately, there's still big flaws in my code but i feel refactoring/correcting at this point wouldn't accomplish much. Instead i will try another project and leave this one in that state. I accomplish my primary goal which was using and learning the basics of the drag-and-drop API. I also had good opportunities to work with the DOM API which is always a good thing at my level. I'm gonna try to gain some rest and come back with more ideas for projects. I also need to work on my schedule so i can code more effectively. 
 
 **Link to work:**[Word Unscrambler](https://github.com/joanFaseDev/100-days-of-code-projects/commit/567ab412da5ae53913cf558b6dd5a722cc803eb2)
+
+
+### Day 9: April 12, 2023
+
+**Todays Progress:** I started an application requesting data from an API (Random User Generator API) and displaying this data on screen. I finished the JavaScript part, 5 random users are requested when the page is loading and one user is displayed on screen at a time. Through buttons and listener, one can go to the previous user, the next one or generate a new user which is then added to the existing pool of users.
+
+**Thoughts:** Having less time to code, i tried to focus on important concept / feature / technology i could learn and test rapidly. Ajax seemed like a good choice. I started simple, something i knew i could manage with the few hours i've currently have per day. Also something i could built upon. The present application only request data, next time i'll try an API where i can actually send data to the server. No yet there though. First, let's finish this one!   
+
+**Link to work:**[Random User Generator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0c25d747a893e949cc281ab17fef66cf253b4fa5)
