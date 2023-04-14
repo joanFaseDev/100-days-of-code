@@ -83,10 +83,19 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Link to work:**[Word Unscrambler](https://github.com/joanFaseDev/100-days-of-code-projects/commit/567ab412da5ae53913cf558b6dd5a722cc803eb2)
 
 
-### Day 9: April 12, 2023
+### Day 9: April 13, 2023
 
 **Todays Progress:** I started an application requesting data from an API (Random User Generator API) and displaying this data on screen. I finished the JavaScript part, 5 random users are requested when the page is loading and one user is displayed on screen at a time. Through buttons and listener, one can go to the previous user, the next one or generate a new user which is then added to the existing pool of users.
 
 **Thoughts:** Having less time to code, i tried to focus on important concept / feature / technology i could learn and test rapidly. Ajax seemed like a good choice. I started simple, something i knew i could manage with the few hours i've currently have per day. Also something i could built upon. The present application only request data, next time i'll try an API where i can actually send data to the server. No yet there though. First, let's finish this one!   
 
 **Link to work:**[Random User Generator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0c25d747a893e949cc281ab17fef66cf253b4fa5)
+
+
+### Day 10: April 14, 2023
+
+**Todays Progress:** I finished the Random User Generator application. I added some styling and change a few lines of JS.
+
+**Thoughts:** I don't feel like i accomplished much today. Probably because i only used CSS. Not to say the language is poor or not interesting, quite the contrary actually. But he thing is i know little about CSS so my stylesheets often look the same from one project to another which made me feel depressed on that particular project (more precisely my inability to create good styles). That's something i plan to work on in the futur but it'll have to wait a little. Good thing is: tomorrow's Saturday which means i'll have more time and rest to work on projects!   
+
+**Link to work:**[Random User Generator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/84bdd2931bdd8696efec188d909fc985833e1286)
