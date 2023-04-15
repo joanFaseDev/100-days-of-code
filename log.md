@@ -99,3 +99,12 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** I don't feel like i accomplished much today. Probably because i only used CSS. Not to say the language is poor or not interesting, quite the contrary actually. But he thing is i know little about CSS so my stylesheets often look the same from one project to another which made me feel depressed on that particular project (more precisely my inability to create good styles). That's something i plan to work on in the futur but it'll have to wait a little. Good thing is: tomorrow's Saturday which means i'll have more time and rest to work on projects!   
 
 **Link to work:**[Random User Generator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/84bdd2931bdd8696efec188d909fc985833e1286)
+
+
+### Day 11: April 15, 2023
+
+**Todays Progress:** I choose to learn JavaScript properly to improve my coding ability and hopefully develop better programming skills and habits. I choose to focus on the website [JavaScript Info](https://javascript.info/) which is a ressource i'm fond of. Their articles are well written without being suffocating which can be the case for MDN (another source i consult daily). I also started a Multiple Choice Questions application using vanilla JavaScript. The question's source and the way to render the questions and their answers to the screen (through integration in the DOM) have been wrote. I now must write the logic to evaluate the user's answers and increment or not its score.
+
+**Thoughts:** I mainly did research today which is something i always feel bad about because the time spent 'not coding' seems like 'unproductive' to me. It's stupid of course, smart planning makes you gain time in the long run and help boost your productivity, not the opposite. Following a MDN's article on goals and learning curve, i started writing my objective for the futur (getting a front-end developper job) and how i could accomplish it. While i was writing, i realize i never really wondered what kind of developer i wanted to be or what exactly do i prefer in developement. I think i need to answer these questions first before finishing my plan.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3](Multiple Choice Questions)
