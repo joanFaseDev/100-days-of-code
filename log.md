@@ -108,3 +108,12 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** I mainly did research today which is something i always feel bad about because the time spent 'not coding' seems like 'unproductive' to me. It's stupid of course, smart planning makes you gain time in the long run and help boost your productivity, not the opposite. Following a MDN's article on goals and learning curve, i started writing my objective for the futur (getting a front-end developper job) and how i could accomplish it. While i was writing, i realize i never really wondered what kind of developer i wanted to be or what exactly do i prefer in developement. I think i need to answer these questions first before finishing my plan.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3](Multiple Choice Questions)
+
+
+### Day 12: April 16, 2023
+
+**Todays Progress:** I added some features to the Multiple Choice Questions application. Now the content of the web page is automatically reset after each question. Then if there's still question unanswered, the next question is displayed on screen. If all question have been answered, a summary i'm still working on is suppose to be displayed on the page.
+
+**Thoughts:** I didn't progress that much on the application but i'm satisfied with what i wrote, i think i'm going in the right direction. I'm not using any new knowledge on this particular project but i'm still working on my problem solving skill and it feels like valuable work. Aside from that, i keep reading [JavaScript Info](https://javascript.info/)'s content. Hopefully, the next projects will capitalize on what i picked up along the way.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957](Multiple Choice Questions)
