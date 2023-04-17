@@ -117,3 +117,12 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** I didn't progress that much on the application but i'm satisfied with what i wrote, i think i'm going in the right direction. I'm not using any new knowledge on this particular project but i'm still working on my problem solving skill and it feels like valuable work. Aside from that, i keep reading [JavaScript Info](https://javascript.info/)'s content. Hopefully, the next projects will capitalize on what i picked up along the way.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957](Multiple Choice Questions)
+
+
+### Day 13: April 17, 2023
+
+**Todays Progress:** The summary part of the Multiple Choice Questions is done. I also added a complete reset of the application if user want to start the challenge again. I started the CSS part but there's still work to do. I also need to add more questions to the pool so i'll probably focus on that tomorrow.
+
+**Thoughts:** I could barely code a couple of hours today but still there's real progress on the application and i think it might be over tomorrow depending on what i can accomplish before going to work (it's the time where i'm the least tired and the more focused). Having a job makes this 100 days challenge more complicated yet i feel i'll be ok as long as i can do my best every day. Even two hours of coding daily is fine, what matters is consistency. That's what makes the difference in the long run.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/41170f1e76388de449369e3b210b037cbb3b5879](Multiple Choice Questions)
