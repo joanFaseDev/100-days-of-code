@@ -135,3 +135,13 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** I kinda rush the last part of the application (a bit of JS logic but mainly the CSS part). Having so little time to pratice coding made me eager to work on various projects and so i felt compelled to finish this app and start something new. It's kinda disapointing but in the end i think i did ok. The app would have definitely benefit from a few more hours of work but the logic part is fine. For once i think i did something kinda scalable and that's definitely an achievement i can be proud of. Also i learned that styling a table isn't as easy as it seems. I will definitely look into that in a near future. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/6999fd0af124fc51d388a5cd0f68c01d5a8b7ad4](Multiple Choice Questions)
+
+
+### Day 15: April 19, 2023
+
+**Todays Progress:** I started a vanilla JavaScript application taking a date plus time as input and outputting a countdown between the current time and the input time. I read a tutorial plus part of the MDN documentation on the Date object. I wrote the logic to change the user's input into a valid date format then convert this date into days, hours, minutes and seconds between the current time and the date. 
+
+**Thoughts:** For this application, i'm coding along a written tutorial. Initially i was scared that relying on guides/tutorials prevent me from searching/developping my own solutions but i made a point of testing/refactoring what i read and in the end, i find the process rather enjoyable. It's a good opportunity to learn from more experienced developers and hopefully pick up some valuable informations concerning clean code, programming, ...
+Since i started this challenge, i did almost all projects on my own so it's really refreshing to see ways of solving problems different than my own. 
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384](Countdown)
