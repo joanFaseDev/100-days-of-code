@@ -145,3 +145,12 @@ This project is now finished, i'm satisfied with the result and will take some t
 Since i started this challenge, i did almost all projects on my own so it's really refreshing to see ways of solving problems different than my own. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384](Countdown)
+
+
+### Day 16: April 20, 2023
+
+**Todays Progress:** Countdown application is almost over. The JS part is finished meaning the countdown is now displayed and updated on screen. There's also the possibility to cancel a countdown before its end or to start another one once a countdown is finished. 
+
+**Thoughts:** Today was really interesting. I learned about the setInterval() function and decided to instantly like it. It's easy to use and open far too many possibilities to count. I also want to try a 'new' method of learning where i basically make pair of projects: the first one in a guided 'safe' environment (throught tutorials) and the second, based on the first's knowledge, where i code alone and must think by myself. It seems like a good method of 'learning then checking if i understood correctly'.  
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd](Countdown)
