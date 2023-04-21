@@ -154,3 +154,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** Today was really interesting. I learned about the setInterval() function and decided to instantly like it. It's easy to use and open far too many possibilities to count. I also want to try a 'new' method of learning where i basically make pair of projects: the first one in a guided 'safe' environment (throught tutorials) and the second, based on the first's knowledge, where i code alone and must think by myself. It seems like a good method of 'learning then checking if i understood correctly'.  
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd](Countdown)
+
+
+### Day 17: April 21, 2023
+
+**Todays Progress:** Countdown application is finished. I added enough styles to make a decent mobile and desktop responsive design. I also corrected a problem cause by the setInterval() function, more precisely the idInterval value used with clearInterval().
+
+**Thoughts:** This project was really interesting. Following a guide gave me good tips on clean code and let me discovered useful features like the setInterval() function or more generally how to convert milliseconds into seconds, minutes, hours and days. I also learned a good use of the modulo operator!
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb](Countdown)
