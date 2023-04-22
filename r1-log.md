@@ -163,3 +163,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** This project was really interesting. Following a guide gave me good tips on clean code and let me discovered useful features like the setInterval() function or more generally how to convert milliseconds into seconds, minutes, hours and days. I also learned a good use of the modulo operator!
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb](Countdown)
+
+
+### Day 18: April 22, 2023
+
+**Todays Progress:** I started out a Pomodoro application mimicking the one from the website [Pomofocus](https://pomofocus.io/). This time, i tried to do things smartly by writing my process before actually coding anything. I also try to write code more 'spontaneously' alterning between HTML, CSS and JavaScript to gradually 'shape' the app (usually i do the appearance at the end when all is functional). I don't know if it's good or bad but i'll probably have a clue by the end of this project.
+
+**Thoughts:** This project will probably be the biggest one yet. There's a lot of features to test and implement so i'll probably work on it for quite some time. I'm using Pomofocus as a visual reference as i quite like this website and find it well designed. Looking at it more closely, there's a lot of small features / styles i never take notice of before (e.g box-shadow on a button being pressed, a tiny icon indicating a task is now completed, ...). It's kind of cool to rediscover under new lights something you thought you were quite familiar with.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/16760553f2f3b7b024107fb2ec0d8ea69a3a2b59](Pomodoro)
