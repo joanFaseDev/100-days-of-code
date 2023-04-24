@@ -181,3 +181,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** I'm quite satisfied of what i implemented today or more precisely how i implemented it. I listed what i wanted to accomplish and break down each task into smaller steps. Written down my process before actually coding anything made me feel way more in control than usual. Of course, i wasn't always right and sometimes things turned out wrong but at the very least i had a plan to follow which is both reassuring when coding and extremely enjoyable when the coding is done and what was written is actually working correctly. I like coding this way so i'm gonna stick to it from now on.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/34ee601fd8a5bab63680fec86cd2154fce8291d6](Pomodoro)
+
+
+### Day 20: April 24, 2023
+
+**Todays Progress:** The application now smoothly transition from 'Pomodoro' state (25 minutes of work) to 'Short Break' state (5 minutes of break) then, every 4 Pomodoro, to 'Long Break' state. Each state has its own visual theme and every time a countdown end, a ring sound can be heard.
+
+**Thoughts:** I keep writing down the tasks i must work on then try to divide these tasks into smaller units. I really want to make this process a habit as i truly think it'll will make things so much easier in the long run (and not only as a developer as this skill can probably be applied to a lot more areas). I'm progressing well on the application but today i copied/pasted a lot of code and i feel that some refactoring will soon be needed. I really need to learn how to use classes and objects in JavaScript, my code always looks like a giant dish of spaghettis and it's getting more and more troublesome as project goes. Next weekend, i will also learn how to use branches in git. My projects becoming bigger, branches will soon be very valuables.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5a3eadeb3951b41feffdcca99e0b9e4e20384f3b](Pomodoro)
