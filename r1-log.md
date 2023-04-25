@@ -190,3 +190,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** I keep writing down the tasks i must work on then try to divide these tasks into smaller units. I really want to make this process a habit as i truly think it'll will make things so much easier in the long run (and not only as a developer as this skill can probably be applied to a lot more areas). I'm progressing well on the application but today i copied/pasted a lot of code and i feel that some refactoring will soon be needed. I really need to learn how to use classes and objects in JavaScript, my code always looks like a giant dish of spaghettis and it's getting more and more troublesome as project goes. Next weekend, i will also learn how to use branches in git. My projects becoming bigger, branches will soon be very valuables.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5a3eadeb3951b41feffdcca99e0b9e4e20384f3b](Pomodoro)
+
+
+### Day 21: April 25, 2023
+
+**Todays Progress:** I implemented a new feature to directly choose the 'state' of the application, meaning the type of the next countdown (between Pomodoro, Short Break and Long Break). It's accessible through a set of buttons located at the top of the countdown. Pressing one of the three buttons also update the document's style.
+
+**Thoughts:** I think i'm gonna rewrite several parts of the application. My messy code is one thing but i feel the way i built this project is wrong. Adding the new feature was difficult because i couldn't built on what i previously established. It seems i didn't plan well enough so the best thing i can do is recognize my poor judgement / building skill and try to correct what i can as best as possible.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f735fa5fe9cabfbd26b59cd96349a2ab3b429300](Pomodoro)
