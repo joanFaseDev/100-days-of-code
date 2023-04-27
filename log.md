@@ -208,3 +208,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** While i clearly lack the knowledge to rewrite efficiently my previous code, i'm somewhat satisfied of what i accomplished today. It's far from perfect but still way better than my previous implementation, it's less verbose and more reliant on functions. I also tried to make my code more scalable by writing function that can be use in more than one case. Overall, i found that refactoring is acutally a pleasant experience and  probably a very good exercice for anyone trying to improve its code writing skill. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/678ae946d4047b6ac1f21fc5dd13bc6dc282242b](Pomodoro)
+
+
+### Day 23: April 27, 2023
+
+**Todays Progress:** Refactorization is now complete. The application is functionnal which is more than it was in the previous version. I added the logic/style for the start/pause button plus the logic for the change of mode when a countdown ends.
+
+**Thoughts:** The application is still missing some juicy features (ring sound at the end of a countdown, a task manager,...) but the default functionalities are here and i think it's possible to build on it. Initially i planned to keep working on the app, mainly to add the task manager, but now that i have something working i must confess that i'm eager to work on something else. Maybe something smaller where i can actually work on my basics. If anything, this project made me realize that programming language isn't worth much without proper planning and smart decision making. To acquire that, i need knowledge of my pairs and small projects i can test it out!  
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/46ebc78a40800677d51a9236d467b15e51471857](Pomodoro)
