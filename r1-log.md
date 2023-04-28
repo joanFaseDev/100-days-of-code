@@ -217,3 +217,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** The application is still missing some juicy features (ring sound at the end of a countdown, a task manager,...) but the default functionalities are here and i think it's possible to build on it. Initially i planned to keep working on the app, mainly to add the task manager, but now that i have something working i must confess that i'm eager to work on something else. Maybe something smaller where i can actually work on my basics. If anything, this project made me realize that programming language isn't worth much without proper planning and smart decision making. To acquire that, i need knowledge of my pairs and small projects i can test it out!  
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/46ebc78a40800677d51a9236d467b15e51471857](Pomodoro)
+
+
+### Day 24: April 28, 2023
+
+**Todays Progress:** I started a new application called Party Games. The end goal is to chain three small scope games (like the Hangman game) so two users can compete together. 
+
+**Thoughts:** I'm not really set on the how and what of this application. I just wanted a project i could use to test out what i'm currently learning on [JavaScript.info](https://javascript.info/). My goal with this project is to focus on writing clean code and developping my problem solving skills. It's the last day of the week (which mean my fatigue is at its peak) but tomorrow i'll have a more concrete idea of the direction i want to go with this application.   
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6](Party Games)
