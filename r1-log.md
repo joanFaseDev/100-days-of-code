@@ -226,3 +226,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** I'm not really set on the how and what of this application. I just wanted a project i could use to test out what i'm currently learning on [JavaScript.info](https://javascript.info/). My goal with this project is to focus on writing clean code and developping my problem solving skills. It's the last day of the week (which mean my fatigue is at its peak) but tomorrow i'll have a more concrete idea of the direction i want to go with this application.   
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6](Party Games)
+
+
+### Day 25: April 29, 2023
+
+**Todays Progress:** I created a new project dedicated to the proper learning of JavaScript (through the website [javascript.info](https://javascript.info/)). I also started coding the logic for the Hangman game of the Party Games project. For now, a random word is fetched from an API and several divs are created, each containing a letter from the random word. 
+
+**Thoughts:** Lately i realized my learning plan is a mess. More accurately, i don't have an end goal. I wish to get a job as a developper but i didn't really research the kind of skills needed to get it. I think that realization in itself is a progress. Once i figured out the skills needed, i'll research projects that are using theses skills. Projects that can actually help selling myself. For now, i'm learning JavaScript. I created a project where i can test examples and snippets in a small environment. I'm currently revisiting functions and it's really unbelievable how i can use them daily and know so little about them!    
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9808fa4e5aa9f4d842a677909f14905bf54d389](Party Games)
