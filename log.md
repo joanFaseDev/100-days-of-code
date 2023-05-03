@@ -262,3 +262,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** I have a lot of difficulties navigating my code. I said it (and by 'it' i mean my spaguetti code) won't happen again but i guess i didn't act on it. Contrary to what i initially annonced, i will limit that project to the Hangman game. There's already a ton of stuff to do, no need to add more complexity on a code which is barely manageable as it is. For now, i'm going to add a few features and refactor as much code as possible so i can finish this smoothly.     
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/7517254cc5bff96c45a4e56236be7a177b74622c](Party Games)
+
+
+### Day 29: May 3, 2023
+
+**Todays Progress:** I focused on two things. First, i refactored most of the application's functions. I rearrange them in calling order and i tried to redefine each function to do one task while renaming the ones that didn't seem explicite enough. Second, i added a feature at the start of the application to get the player's names, check their format, store them then transition to the game's core loop. 
+
+**Thoughts:** I refactored as much functions as possible. It's not ideal but it's still a huge improvement compared to yesterday. The code is now clear enough so that i can finish this application without losing too much time. I think i'm slowly getting better at writing 'decent' functions ( by that i mean functions with a clear name and focused on one task). That's the impression i have anyways.     
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647](Party Games)
