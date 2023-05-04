@@ -271,3 +271,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** I refactored as much functions as possible. It's not ideal but it's still a huge improvement compared to yesterday. The code is now clear enough so that i can finish this application without losing too much time. I think i'm slowly getting better at writing 'decent' functions ( by that i mean functions with a clear name and focused on one task). That's the impression i have anyways.     
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647](Party Games)
+
+
+### Day 30: May 4, 2023
+
+**Todays Progress:** I added logic to sort player's answers between valid and unvalid one. Previous answers are also stored in valid/unvalid pools. Finally i integrated a feature to automatically switch turn between players every time an answer is send.
+
+**Thoughts:** The script have now more than 800 lines of code which makes this application the 'bigger' i've done until now. This size is a problem though, i lose a lot of time double checking my code even with dual screen. This morning, i spend 20 minutes on a simple error caused by a function i created twice. Turned out that the one being called in that case is the one being declared last. It's logic but it never happened to me before so i was still surprised. This project is a nest of mistakes. That's good, i'll learn a ton from it!     
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878](Party Games)
