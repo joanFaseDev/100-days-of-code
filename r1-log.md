@@ -280,3 +280,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** The script have now more than 800 lines of code which makes this application the 'bigger' i've done until now. This size is a problem though, i lose a lot of time double checking my code even with dual screen. This morning, i spend 20 minutes on a simple error caused by a function i created twice. Turned out that the one being called in that case is the one being declared last. It's logic but it never happened to me before so i was still surprised. This project is a nest of mistakes. That's good, i'll learn a ton from it!     
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878](Party Games)
+
+
+### Day 31: May 5, 2023
+
+**Todays Progress:** I added a score system which reward good answers and penalise the wrong ones already proposed. When a penalty occurs, a warning is automatically displayed. I also added a color system plus an array of the hangman's images to the game manager object. Every wrong answer is followed by a display of the 'current frame' registered by the game manager. At the end of the round, if the current frame isn't the last one in the array, the next one is loaded for the following round.
+
+**Thoughts:** The end is near! I just noticed that i started this application more than one week ago which makes it the one i've worked on the longest (others will follow!). I did good progress today and, unless there's big complications ahead, i think i can finish this project tomorrow.      
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f](Party Games)
