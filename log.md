@@ -289,3 +289,13 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** The end is near! I just noticed that i started this application more than one week ago which makes it the one i've worked on the longest (others will follow!). I did good progress today and, unless there's big complications ahead, i think i can finish this project tomorrow.      
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f](Party Games)
+
+
+### Day 32: May 6, 2023
+
+**Todays Progress:** I added a penalties count's feature to break a score tie. I also finished implementing the conditions to end game, either revealed the last letter of the mystery word or displayed the last image of the hangman. When the game ends, part of the document is removed to let some place for a message revealing both victor's name / mystery word and congratulating both players for their participation. 
+
+**Thoughts:** As of now, i considered this project finished. There's a lot more i could do here but it has to end eventually and i'm satisfied with what i built here. This project was supposed to be a chain of three games but in the end i only delivered one. That being said, this game was the hardest i planned out of the three and i think a learned a lot from its development. I now give my functions a proper name reflecting what they do and only that. I also designed them to do one thing and if i need something else i just create another function. I will improve a lot more once i'll have learn to make them more scalable, more reusable depending of the circonstances. I also need to learn classes and modules as soon as possible. My JavaScript file on that project have more than a thousand lines of code and i don't want to work with that again. I need to abstract more, hide complexity so that i can better focus on just implementing each features without causing a ton of problems elsewhere.
+I have a three days weekend so i'm going to take the time to think about the projects i have to do. No more random applications, i need to select projects that i can learn the most from. Projects i can actually use in a portfolio to secure a job!       
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214](Party Games)
