@@ -299,3 +299,12 @@ Since i started this challenge, i did almost all projects on my own so it's real
 I have a three days weekend so i'm going to take the time to think about the projects i have to do. No more random applications, i need to select projects that i can learn the most from. Projects i can actually use in a portfolio to secure a job!       
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214](Party Games)
+
+
+### Day 33: May 7, 2023
+
+**Todays Progress:** I didn't start any project today and instead focused on learning more about JavaScript objects. Yesterday, i reviewed some basics, how to create them using object litterals (constructors will be tomorrow) and how copying an object merely copy the reference to its address in memory (by opposition to primary data types which are copied in value only). Today, i studied the 'this' keyword. I knew it was primarily used to reference an object inside its own methods but there was a lot i wasn't aware of, the biggest discovery being that 'this' in JavaScript is evaluated at run-time! Which actually explains a lot of things now that i think about it... 
+
+**Thoughts:** I'm trying to use my three days weekend efficiently. The goal is to come up with a well thought learning plan i can follow for the next weeks. To be honest, i'm still on it. Aside from that, i tried to think about a way to find a job in web development as fast as possible. My best friend recommended i build a good CV, motivation's letter and portfolio then send copies to all valid potential employers i can find. I wanted to learn how to use Figma (i think it's a good line on a front end's developer curriculum) so i started building my cv using it. The ideal would be to finish it in the next 24 hours so i can concentrate on the letter but i'm not sure i can do it...      
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d](Learning JavaScript)
