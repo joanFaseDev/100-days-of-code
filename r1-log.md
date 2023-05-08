@@ -309,3 +309,11 @@ I have a three days weekend so i'm going to take the time to think about the pro
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d](Learning JavaScript)
 
+
+### Day 34: May 8, 2023
+
+**Todays Progress:** I learned the basics of the 'new' operator and constructor functions. What is the difference between creating objects through object litteral versus creating them through constructor functions, what happens in a constructor function when one explicitly returns a value,... 
+
+**Thoughts:** Learning more about JavaScript is definitely a good thing, the more i read the more i realize i'm actually using a lot of JavaScript features without really knowing what happens in the back of the store. Best thing is that a part of what i'm currently learning can be applied to other languages (i'm trying to learn Lua, specifically for game development and the two languages have a lot of similarities) which helps a lot. I'm going to spend the rest of the day working on Figma, finding a new JS project i can start tomorrow and, hopefully, starting some real game development / prototyping. There's a lot to do, have to go!      
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/48a4c07959f4cd2bc8208aef74fba09840e2a6c6](Learning JavaScript)
