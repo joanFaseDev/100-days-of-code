@@ -327,3 +327,12 @@ I have a three days weekend so i'm going to take the time to think about the pro
 I'm trying to use JavaScript objects on that project to apply what i learned this weekend. I'm not sure about the implementation yet but experimenting is a good way to learn so wait and see!    
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+
+
+### Day 36: May 10, 2023
+
+**Todays Progress:** I kept experimenting and finally set for a simple system where i keep a trace of the user's last input and base the application's entire logic on what this last input can accomplish combined with the current one. I implemented some basics like updating the calculator's screen with the user's input if it's a digit. I also started setting the social medias features which were added to the calculator's header. 
+
+**Thoughts:** I experimented some more today. Erased as much lines as i created but i very much prefer taking the time to find a decent implementation early in the development. I don't want to spend hours in writing codes to finally hit a wall and realize i have to start on more solid basis. Most on my reflections were actually wrote on paper which makes me realize studying pseudo code or languages like UML may be incredibly worth in the long run.    
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
