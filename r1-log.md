@@ -336,3 +336,21 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I experimented some more today. Erased as much lines as i created but i very much prefer taking the time to find a decent implementation early in the development. I don't want to spend hours in writing codes to finally hit a wall and realize i have to start on more solid basis. Most on my reflections were actually wrote on paper which makes me realize studying pseudo code or languages like UML may be incredibly worth in the long run.    
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+
+
+### Day 37: May 11, 2023
+
+**Todays Progress:** I implemented the logic related to the github and twitter icons using the load() method of the Window interface. I also finished the 'no previous key' use case and set a limit to the number of characters displayed by the Calculator (max 16). I started experimenting with ways to handle the calculator's calculations through three properties: leftOperand, rightOperand and operator.
+
+**Thoughts:** There's too many flaws in my current impementation, i'm gonna start something different based on simple conditions focused on three properties, one for the first value (left operand) another for the second value and a last one for the operator between them.    
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a6f3144f205db5b03bd52125844a8d0c7bd86d7](Calculator)
+
+
+### Day 38: May 12, 2023
+
+**Todays Progress:** I rewrote a big part of the application to make it more manageable and more fit to handle the different use cases. The idea is that every time a calculator's key is pressed, three things are evaluated: is there a left operand? If yes, is there an operator? If yes, is there a right operand? Depending of the results, the same key will display a different result.
+
+**Thoughts:** The way i'm currently coding this application is probably not the best but that's the one i found by myself and if i can finish this project with it i'll be satisfied enough. I kept using pseudo-code to wrote most of the logic i implemented today. I really enjoy this process, i found it useful because i'm someone who's pretty bad at 'thinking logically'. Write on paper helps me see the flaws in my design (not all unfortunately) and partially correct it which is a definite improvement!
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c](Calculator)
