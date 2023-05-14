@@ -355,6 +355,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c](Calculator)
 
+
 ### Day 39: May 13, 2023
 
 **Todays Progress:** I wrote all use cases for configurations where the left operand and operator are known as well as when left operand, operator and right operand are known. The JavaScript part is finish and the application is functionnal. What's left is the CSS part.
@@ -362,3 +363,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** The application seems to work fine. I tested various things manually but it's time consuming and far from being efficient. I'll probaby have to learn how to write and configure proper tests in the long run but it's not a priority yet. I reused lots of code near the end which is not ideal but i was eager to finish the JS part and play with styles. I'm probably gonna review some basics of HTML and CSS in the next days. As of yesterday, i'm unemployed and i wish to use my free time to 1) work on my CV and job research 2) list what i currently know and what fundamental web developer skills do i miss at this point.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6e3efa71a61ac8aa2b0319e0a8330628eef86cd](Calculator)
+
+
+### Day 40: May 14, 2023
+
+**Todays Progress:** Added styles to make the application looks as similar as the mockup created on Figma. With this, the project is considered finished.
+
+**Thoughts:** The task today was surprisingly easy. All i did was follow what i've done on Figma last week. At this point, i think i'm gonna include Figma (or any other apps dedicated to prototyping user interface) in my workflow for all futur projects. The gain of time is massive and the synergy between the application and CSS makes styling easier and more enjoyable.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b](Calculator)
