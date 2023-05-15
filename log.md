@@ -372,3 +372,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** The task today was surprisingly easy. All i did was follow what i've done on Figma last week. At this point, i think i'm gonna include Figma (or any other apps dedicated to prototyping user interface) in my workflow for all futur projects. The gain of time is massive and the synergy between the application and CSS makes styling easier and more enjoyable.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b](Calculator)
+
+
+### Day 41: May 15, 2023
+
+**Todays Progress:** I set up the Anki application to try to learn/remember important web development concepts. I started the freeCodeCamp's responsive design course and i also begun working on my new project for the 100 day of code challenge: an images carousel.
+
+**Thoughts:** The goal with working on memory through Anki is to slowly prepare myself for job's interview. I focus on concepts only, not languages syntax. The carousel project is something i thought of after realizing i actually enjoy working on and with UI interfaces. I wanted to reuse Figma, which i did, to set up the habit of doing a mockup every time i start a new project. I want something of a workflow and i want an application like Figma in it. This project will propably be centered on CSS but i'm gonna try to make some time to work on JavaScript daily. 
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2](Images Carousel)
