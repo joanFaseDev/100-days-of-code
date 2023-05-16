@@ -381,3 +381,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** The goal with working on memory through Anki is to slowly prepare myself for job's interview. I focus on concepts only, not languages syntax. The carousel project is something i thought of after realizing i actually enjoy working on and with UI interfaces. I wanted to reuse Figma, which i did, to set up the habit of doing a mockup every time i start a new project. I want something of a workflow and i want an application like Figma in it. This project will propably be centered on CSS but i'm gonna try to make some time to work on JavaScript daily. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2](Images Carousel)
+
+
+### Day 42: May 16, 2023
+
+**Todays Progress:** I created a repository dedicating to testing various ideas/technologies/concepts before implementing them in projects. I used it to practice the CSS position property that i may be using in the Images Carousel application.
+
+**Thoughts:** I know that there's really good coding environment online (like CodePen) to create prototypes but i wanted to keeps things locked and controlled, not be bothered every time i decide to test a JS library (i'm gonna test [rolly.js](https://mickaelchanrion.github.io/rolly/) soon) and can't for compatibility issues. For now, i'm gonna try various things with **position**, **opacity** and **animation** properties, the last one being something i anticipate quite a lot!
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/53a2cbaec88c9206aa0a136efb9ddbfc8dc676eb](Images Carousel)
