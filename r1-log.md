@@ -399,3 +399,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** The second demo is basically what i planned as the current challenge's project but i don't feel like stopping there. I have fun working with JavaScript AND CSS. Working on visuals and design is something i really enjoy so i decided to expand the project's scope. I'm gonna do a set of images carousels with sightly different implementations and group them all on the same page. Then i'll add a nice scrolling effect to slide from one carousel to the next. It looks like a good project because i can train on nice scrolling and sliding effects that i will reuse on other projects like, for example, building my personal website! Well not now but in a, i hope, not so distant future!
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1071409732901fa1e576b946523c3153eff597c0](Images Carousel)
+
+
+### Day 44: May 18, 2023
+
+**Todays Progress:** I added a navbar and configured it to smoothly scroll from one demo to another. I tried to use the [slick](https://kenwheeler.github.io/slick/) library but couldn't implement it properly. I started the data types part of the javascript.info guide on JS and am currently learning a lot of new things about number data type.
+
+**Thoughts:** Today wasn't really the productive day i escompted but what really matters is being consistent and i did worked today so that's probably good. I lost a fair amount of time trying to implement the **slick** library. There's no doubt that i lack experience with APIs but i found the documentation lacking in clarity (again it's probably my fault in the end). Tomorrow i'll try another API with similar features. That way i can compare both implementations and maybe be a little less biaised.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89](Images Carousel)
