@@ -408,3 +408,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** Today wasn't really the productive day i escompted but what really matters is being consistent and i did worked today so that's probably good. I lost a fair amount of time trying to implement the **slick** library. There's no doubt that i lack experience with APIs but i found the documentation lacking in clarity (again it's probably my fault in the end). Tomorrow i'll try another API with similar features. That way i can compare both implementations and maybe be a little less biaised.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89](Images Carousel)
+
+
+### Day 45: May 19, 2023
+
+**Todays Progress:** I created an images slider using HTML, CSS and JavaScript. I learned many useful CSS properties like object-fit, overflow-x & overflow-y, scroll-snap-align & scroll-snap-type and the webkit pseudo-elements to style scrollbar.
+
+**Thoughts:** I'm pretty satisfied with the slider i've built. There's no JS or CSS frameworks involved here so, even if i do end up using some later, at the very least i now know the theory and that kind of knowledge is never useless. I also understood one very important thing about the **object-fit** property, it only works if the img element have a defined size! I used the property in many occasions but never actually bother trying to understand why it only worked half the time...
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b](Images Carousel)
