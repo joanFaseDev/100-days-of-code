@@ -417,3 +417,13 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I'm pretty satisfied with the slider i've built. There's no JS or CSS frameworks involved here so, even if i do end up using some later, at the very least i now know the theory and that kind of knowledge is never useless. I also understood one very important thing about the **object-fit** property, it only works if the img element have a defined size! I used the property in many occasions but never actually bother trying to understand why it only worked half the time...
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b](Images Carousel)
+
+
+### Day 46: May 20 2023
+
+**Todays Progress:** I finished the javascript.info part on number's data-type and created a repository to test various JavaScript libraries. I tested some features from the Flickity library, which is an API dedicated to carousels and sliders. I also progressed on the freeCodeCamp's course i started a couple of days ago.
+
+**Thoughts:** I tried to do various things today and i achieved most of them (freeCodeCamp course, testing Flickity, adding front-end developer's interview questions to Anki, reading some article about SOLID principles) but didn't progress very well on the carousel application. Considering i already learn quite a lot on carousels and sliders since the beginning of this project, i'm gonna try to finish fast so i can focus on something else, something more relevant in term of 'finding a front-end developer job'! 
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649](Images Carousel)
+
