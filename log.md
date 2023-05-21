@@ -426,3 +426,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I tried to do various things today and i achieved most of them (freeCodeCamp course, testing Flickity, adding front-end developer's interview questions to Anki, reading some article about SOLID principles) but didn't progress very well on the carousel application. Considering i already learn quite a lot on carousels and sliders since the beginning of this project, i'm gonna try to finish fast so i can focus on something else, something more relevant in term of 'finding a front-end developer job'! 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649](Images Carousel)
+
+
+### Day 47: May 21 2023
+
+**Todays Progress:** I used the Flickity library to create a webpage showcasing various artists work (from [Concept Art World](https://conceptartworld.com/)) through sliders and carousels. I used features provided by the API like autoplay, custom width and style for the slides, custom buttons, pseudo-element for the slide currently displayed on screen, ... I added a sticky navbar using what i learned of the position property this week.
+
+**Thoughts:** I'm ending the images carousel project with this work. I ended up doing much more than what i initially planned and still it doesn't feel like enough considering what i read in the Flickity documentation. There was a lot of features i didn't explore starting by the JS ones i didn't touch at all. Globally, i didn't like this project and i know why. That's because i didn't have a precise scope and a plan to follow. Like i said, i didn't stick with what i have planned and ended up doing things randomly which is something i'm not confortable with. I like to plan things, stick to it and, once finished, plan more things on top of it or not. That's something i realized this week so i guess this discovery in itself is worth the trouble because now i know the recipe to create a confortable situation for myself!
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417](Images Carousel)
