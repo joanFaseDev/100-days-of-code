@@ -435,3 +435,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I'm ending the images carousel project with this work. I ended up doing much more than what i initially planned and still it doesn't feel like enough considering what i read in the Flickity documentation. There was a lot of features i didn't explore starting by the JS ones i didn't touch at all. Globally, i didn't like this project and i know why. That's because i didn't have a precise scope and a plan to follow. Like i said, i didn't stick with what i have planned and ended up doing things randomly which is something i'm not confortable with. I like to plan things, stick to it and, once finished, plan more things on top of it or not. That's something i realized this week so i guess this discovery in itself is worth the trouble because now i know the recipe to create a confortable situation for myself!
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417](Images Carousel)
+
+
+### Day 48: May 22 2023
+
+**Todays Progress:** I started learning/reviewing CSS Grid and the CSS animation property through the MDN guides on these subjects. I did two demos and intend to make a couple more, just enough to have the basics of Grid and some notion of animations.
+
+**Thoughts:** I decided to spend a couple of days on Grid and the animation property. The first is an incredible layout tool that have great synergy with flexbox (which i use a lot) and the second is greate to create visual appeal which is something i have a keen interest in. I intend to use this new knowledge to create an interactive quizz focused on layout and smooth transition.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be](Prototypes/CSSGrid)
