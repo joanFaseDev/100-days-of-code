@@ -453,3 +453,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I took a decision a few minutes ago. I'm going to commit and complete two full courses on freeCodeCamp.com, the one on responsive design and then the one on JavaScript. The reason why is that I need to learn how to use a front framework (React, Vue, Angular, one of these) and I need it because I feel it'll be way easier to find a job if I can add and demonstrate that skill on my resume. But I want to be sure I have a decent level of HTML, CSS, and JS before focusing on frameworks. I can't wait forever so I'm setting up a clock. I commit to these two courses, finish them then framework, no more delaying. I don't know if that's a good plan but it's a plan and it's something I need. I wrote it before, I need a clear direction. So let's try this!
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007](Prototypes/CSSGrid)
+
+
+### Day 50: May 23 2023
+
+**Todays Progress:** Spend all my available time on the survey's styling. It's decent but not responsive which is something i'm not satisfied with. I intend to correct that this weekend.
+
+**Thoughts:** Styling this survey took me a lot of time but i learned a few things along the way. For example, the CSS at-rule **@font-face** that can load a custom font to display a text or the fact that radio and checkbox buttons are complicated to style because they're native elements of the browser.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
