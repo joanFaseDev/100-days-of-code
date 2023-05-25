@@ -462,3 +462,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** Styling this survey took me a lot of time but i learned a few things along the way. For example, the CSS at-rule **@font-face** that can load a custom font to display a text or the fact that radio and checkbox buttons are complicated to style because they're native elements of the browser.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
+
+
+### Day 51: May 24 2023
+
+**Todays Progress:** I finished the rothko painting, the photo gallery and the nutrition label courses of the responsive design cursus.
+
+**Thoughts:** I enjoy freeCodeCamp active teaching's style. The user is constantly coding, following instructions that are first very detailed and then later more concise. That way we are learning by repetition and then by memory. Also, I could gain a lot from their coding habit. The way they use CSS classes for example, as simple components dedicated to one task they can reuse on multiple elements, seems simple but efficient to me.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
