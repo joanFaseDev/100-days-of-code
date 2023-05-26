@@ -471,3 +471,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** I enjoy freeCodeCamp active teaching's style. The user is constantly coding, following instructions that are first very detailed and then later more concise. That way we are learning by repetition and then by memory. Also, I could gain a lot from their coding habit. The way they use CSS classes for example, as simple components dedicated to one task they can reuse on multiple elements, seems simple but efficient to me.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
+
+
+### Day 52: May 25 2023
+
+**Todays Progress:** I finished the quiz course of the responsive design cursus.
+
+**Thoughts:** Today's course was focused on accessibility which is a main subject of modern web development. I'll remember the various meta tag and the informations they can provide (description, mobile viewport, character encoding, ...), the role attribute but also the placeholder attribute being somewhat bad for accessiblity.
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824](freeCodeCamp/courses/responsiveWebDesign)
