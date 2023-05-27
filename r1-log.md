@@ -446,7 +446,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be](Prototypes/CSSGrid)
 
 
-### Day 49: May 22 2023
+### Day 49: May 23 2023
 
 **Todays Progress:** I finished reviewing the basics of CSS Grid. I started training my problem-solving skills on [code kata](http://codekata.com) and I also finished the first part of freeCodeCamp's course on responsive design. The survey I produced was approved before I even got the time to style it though so I'll finish it tomorrow.
 
@@ -455,7 +455,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007](Prototypes/CSSGrid)
 
 
-### Day 50: May 23 2023
+### Day 50: May 24 2023
 
 **Todays Progress:** Spend all my available time on the survey's styling. It's decent but not responsive which is something i'm not satisfied with. I intend to correct that this weekend.
 
@@ -464,7 +464,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
 
 
-### Day 51: May 24 2023
+### Day 51: May 25 2023
 
 **Todays Progress:** I finished the rothko painting, the photo gallery and the nutrition label courses of the responsive design cursus.
 
@@ -473,10 +473,19 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
 
 
-### Day 52: May 25 2023
+### Day 52: May 26 2023
 
 **Todays Progress:** I finished the quiz course of the responsive design cursus.
 
 **Thoughts:** Today's course was focused on accessibility which is a main subject of modern web development. I'll remember the various meta tag and the informations they can provide (description, mobile viewport, character encoding, ...), the role attribute but also the placeholder attribute being somewhat bad for accessiblity.
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824](freeCodeCamp/courses/responsiveWebDesign)
+
+
+### Day 53: May 27 2023
+
+**Todays Progress:** I created an image gallery to practice what I learned this week on accessibility and responsive design.
+
+**Thoughts:** Today's focus was on responsive design and accessibility. I used CSS at-rules, media queries, and HTML meta elements to apply the basics I learned this week. freeCodeCamp's curriculum feels right and I'm enjoying the learning process but I also need to regularly practice aside from the courses to test my new knowledge. I feel I can progress faster that way. 
+
+**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a](freeCodeCamp/projects/responsiveWebDesign)
