@@ -107,7 +107,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I mainly did research today which is something i always feel bad about because the time spent 'not coding' seems like 'unproductive' to me. It's stupid of course, smart planning makes you gain time in the long run and help boost your productivity, not the opposite. Following a MDN's article on goals and learning curve, i started writing my objective for the futur (getting a front-end developper job) and how i could accomplish it. While i was writing, i realize i never really wondered what kind of developer i wanted to be or what exactly do i prefer in developement. I think i need to answer these questions first before finishing my plan.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3)
 
 
 ### Day 12: April 16, 2023
@@ -116,7 +116,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I didn't progress that much on the application but i'm satisfied with what i wrote, i think i'm going in the right direction. I'm not using any new knowledge on this particular project but i'm still working on my problem solving skill and it feels like valuable work. Aside from that, i keep reading [JavaScript Info](https://javascript.info/)'s content. Hopefully, the next projects will capitalize on what i picked up along the way.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957)
 
 
 ### Day 13: April 17, 2023
@@ -125,7 +125,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I could barely code a couple of hours today but still there's real progress on the application and i think it might be over tomorrow depending on what i can accomplish before going to work (it's the time where i'm the least tired and the more focused). Having a job makes this 100 days challenge more complicated yet i feel i'll be ok as long as i can do my best every day. Even two hours of coding daily is fine, what matters is consistency. That's what makes the difference in the long run.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/41170f1e76388de449369e3b210b037cbb3b5879](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/41170f1e76388de449369e3b210b037cbb3b5879)
 
 
 ### Day 14: April 18, 2023
@@ -489,3 +489,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** Today's focus was on responsive design and accessibility. I used CSS at-rules, media queries, and HTML meta elements to apply the basics I learned this week. freeCodeCamp's curriculum feels right and I'm enjoying the learning process but I also need to regularly practice aside from the courses to test my new knowledge. I feel I can progress faster that way. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a](freeCodeCamp/projects/responsiveWebDesign)
+
+
+### Day 54: May 28 2023
+
+**Todays Progress:** I updated the survey form I did a couple of days ago by implementing the basics of accessibility I learned since then. I also made the web page fully responsive and tried out the [Open Color](https://yeun.github.io/open-color/) CSS API.
+
+**Thoughts:** To update the survey, I used the mobile-first design method where one builds the mobile design first before focusing on the desktop one. I like this method, it feels more intuitive to me and makes it easier to use CSS's natural responsiveness. I also read an article [UX best practices for developers](https://blog.openreplay.com/ux-best-practices-for-developers/) mentioning the Open Color API that is simple and easy to use, particularly once combined with a [Color Contrast Checker](https://coolors.co/contrast-checker/ffffff-188074).
+
+**Link to work:** [Survey form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2f6d9a7a739b86c044a847eb873110cdfca8071f)

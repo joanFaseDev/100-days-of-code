@@ -489,3 +489,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** Today's focus was on responsive design and accessibility. I used CSS at-rules, media queries, and HTML meta elements to apply the basics I learned this week. freeCodeCamp's curriculum feels right and I'm enjoying the learning process but I also need to regularly practice aside from the courses to test my new knowledge. I feel I can progress faster that way. 
 
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a](freeCodeCamp/projects/responsiveWebDesign)
+
+
+### Day 54: May 28 2023
+
+**Todays Progress:** I updated the survey form I did a couple of days ago by implementing the basics of accessibility I learned since then. I also made the web page fully responsive and tried out the [Open Color](https://yeun.github.io/open-color/) CSS API.
+
+**Thoughts:** To update the survey, I used the mobile-first design method where one builds the mobile design first before focusing on the desktop one. I like this method, it feels more intuitive to me and makes it easier to use CSS's natural responsiveness. I also read an article [UX best practices for developers](https://blog.openreplay.com/ux-best-practices-for-developers/) mentioning the Open Color API that is simple and easy to use, particularly once combined with a [Color Contrast Checker](https://coolors.co/contrast-checker/ffffff-188074).
+
+**Link to work:** [Survey form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2f6d9a7a739b86c044a847eb873110cdfca8071f)
