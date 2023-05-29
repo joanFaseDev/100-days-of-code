@@ -498,3 +498,13 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** To update the survey, I used the mobile-first design method where one builds the mobile design first before focusing on the desktop one. I like this method, it feels more intuitive to me and makes it easier to use CSS's natural responsiveness. I also read an article [UX best practices for developers](https://blog.openreplay.com/ux-best-practices-for-developers/) mentioning the Open Color API that is simple and easy to use, particularly once combined with a [Color Contrast Checker](https://coolors.co/contrast-checker/ffffff-188074).
 
 **Link to work:** [Survey form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2f6d9a7a739b86c044a847eb873110cdfca8071f)
+
+
+### Day 55: May 29 2023
+
+**Todays Progress:** I created a tribute page dedicated to Shigeru Miyamoto as part of the freeCodeCamp's certification. I tried to include what I learned until that point on the subjects of accessibility and responsive design. I also completed the course asking to build a balance sheet.
+
+**Thoughts:** I think that my web pages are less flashy than they used to be because I focus more on readability and accessibility than pure design. It's probably for the best though, don't matter how nice and alluring a product is if half of the customers can't use it.
+The balance sheet course was kind of strange because I felt we could have obtained the same result without that many complications. Thinking about it, it was probably just an excuse to introduce some new CSS properties to us.
+
+**Link to work:** [Tribute Page & Balance Sheet](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0ae0bbc6fb1167965688402726b468ca795a3655)

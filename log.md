@@ -134,7 +134,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I kinda rush the last part of the application (a bit of JS logic but mainly the CSS part). Having so little time to pratice coding made me eager to work on various projects and so i felt compelled to finish this app and start something new. It's kinda disapointing but in the end i think i did ok. The app would have definitely benefit from a few more hours of work but the logic part is fine. For once i think i did something kinda scalable and that's definitely an achievement i can be proud of. Also i learned that styling a table isn't as easy as it seems. I will definitely look into that in a near future. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/6999fd0af124fc51d388a5cd0f68c01d5a8b7ad4](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6999fd0af124fc51d388a5cd0f68c01d5a8b7ad4)
 
 
 ### Day 15: April 19, 2023
@@ -144,7 +144,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** For this application, i'm coding along a written tutorial. Initially i was scared that relying on guides/tutorials prevent me from searching/developping my own solutions but i made a point of testing/refactoring what i read and in the end, i find the process rather enjoyable. It's a good opportunity to learn from more experienced developers and hopefully pick up some valuable informations concerning clean code, programming, ...
 Since i started this challenge, i did almost all projects on my own so it's really refreshing to see ways of solving problems different than my own. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384)
 
 
 ### Day 16: April 20, 2023
@@ -153,7 +153,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Today was really interesting. I learned about the setInterval() function and decided to instantly like it. It's easy to use and open far too many possibilities to count. I also want to try a 'new' method of learning where i basically make pair of projects: the first one in a guided 'safe' environment (throught tutorials) and the second, based on the first's knowledge, where i code alone and must think by myself. It seems like a good method of 'learning then checking if i understood correctly'.  
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd)
 
 
 ### Day 17: April 21, 2023
@@ -162,7 +162,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** This project was really interesting. Following a guide gave me good tips on clean code and let me discovered useful features like the setInterval() function or more generally how to convert milliseconds into seconds, minutes, hours and days. I also learned a good use of the modulo operator!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb)
 
 
 ### Day 18: April 22, 2023
@@ -498,3 +498,13 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Thoughts:** To update the survey, I used the mobile-first design method where one builds the mobile design first before focusing on the desktop one. I like this method, it feels more intuitive to me and makes it easier to use CSS's natural responsiveness. I also read an article [UX best practices for developers](https://blog.openreplay.com/ux-best-practices-for-developers/) mentioning the Open Color API that is simple and easy to use, particularly once combined with a [Color Contrast Checker](https://coolors.co/contrast-checker/ffffff-188074).
 
 **Link to work:** [Survey form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2f6d9a7a739b86c044a847eb873110cdfca8071f)
+
+
+### Day 55: May 29 2023
+
+**Todays Progress:** I created a tribute page dedicated to Shigeru Miyamoto as part of the freeCodeCamp's certification. I tried to include what I learned until that point on the subjects of accessibility and responsive design. I also completed the course asking to build a balance sheet.
+
+**Thoughts:** I think that my web pages are less flashy than they used to be because I focus more on readability and accessibility than pure design. It's probably for the best though, don't matter how nice and alluring a product is if half of the customers can't use it.
+The balance sheet course was kind of strange because I felt we could have obtained the same result without that many complications. Thinking about it, it was probably just an excuse to introduce some new CSS properties to us.
+
+**Link to work:** [Tribute Page & Balance Sheet](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0ae0bbc6fb1167965688402726b468ca795a3655)
