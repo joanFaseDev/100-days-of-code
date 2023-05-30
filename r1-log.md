@@ -508,3 +508,12 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 The balance sheet course was kind of strange because I felt we could have obtained the same result without that many complications. Thinking about it, it was probably just an excuse to introduce some new CSS properties to us.
 
 **Link to work:** [Tribute Page & Balance Sheet](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0ae0bbc6fb1167965688402726b468ca795a3655)
+
+
+### Day 56: May 30 2023
+
+**Today's Progress:** I completed the Picasso painting and piano courses on freeCodeCamp curriculum. 
+
+**Thoughts:** Both courses had a heavy focus on CSS's position property. This is great because I have difficulties keeping a page responsive when there are elements with absolute positioning. The next course is a certification one and apparently, I have to build technical documentation, looks fun!
+
+**Link to work:** [Picasso & Piano](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f4419787caa4e3e3a888605243a05a86e4147a1)
