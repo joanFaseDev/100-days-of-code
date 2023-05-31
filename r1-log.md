@@ -517,3 +517,12 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** Both courses had a heavy focus on CSS's position property. This is great because I have difficulties keeping a page responsive when there are elements with absolute positioning. The next course is a certification one and apparently, I have to build technical documentation, looks fun!
 
 **Link to work:** [Picasso & Piano](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f4419787caa4e3e3a888605243a05a86e4147a1)
+
+
+### Day 57: May 1 2023
+
+**Today's Progress:** I started a certification course on freeCodeCamp curriculum. The goal is to create fake technical documentation. The subject being free, I chose to target the game engine Construct 3 as I am currently learning it. The HTML part is pretty much done as all the content has been implemented. CSS is underway.
+
+**Thoughts:** I used ChatGPT to generate the documentation content. I like using AI that way because it helps to deal with unsavory tasks so that one can better focus on learning what matters.
+
+**Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/739ab7a8721f510d7677c4ac2010eaab4ab4e4a8)

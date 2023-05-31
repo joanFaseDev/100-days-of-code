@@ -225,7 +225,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I'm not really set on the how and what of this application. I just wanted a project i could use to test out what i'm currently learning on [JavaScript.info](https://javascript.info/). My goal with this project is to focus on writing clean code and developping my problem solving skills. It's the last day of the week (which mean my fatigue is at its peak) but tomorrow i'll have a more concrete idea of the direction i want to go with this application.   
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6)
 
 
 ### Day 25: April 29, 2023
@@ -234,7 +234,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Lately i realized my learning plan is a mess. More accurately, i don't have an end goal. I wish to get a job as a developper but i didn't really research the kind of skills needed to get it. I think that realization in itself is a progress. Once i figured out the skills needed, i'll research projects that are using theses skills. Projects that can actually help selling myself. For now, i'm learning JavaScript. I created a project where i can test examples and snippets in a small environment. I'm currently revisiting functions and it's really unbelievable how i can use them daily and know so little about them!    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9808fa4e5aa9f4d842a677909f14905bf54d389](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9808fa4e5aa9f4d842a677909f14905bf54d389)
 
 
 ### Day 26: April 30, 2023
@@ -243,7 +243,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Truth be told, the Canvas API is probably not something i should spend a lot of time now. I don't think it's a useful skill to rapidly get a developer job... but it's fun! I had a blast this morning introducing myself to the API using the [MDN Tutorial on the subject](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and there seems to be a lot you can actually do with it. Plus, having an interest in game development and animation, i'm quite fond of this kind of technology. My plan for now is to learn the basics of the API, use it on the current project then try more complex things with it in the future. Writing this, i realize i planned a lot of things lately but rarely follows on it!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6d667c9da2493a6bbfd2b0bca573dd3b4325cf6](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6d667c9da2493a6bbfd2b0bca573dd3b4325cf6)
 
 
 ### Day 27: May 1, 2023
@@ -252,7 +252,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I spend a lot of time on the drawing but i'm actually happy with the result. I now have a basic knowledge of the Canvas API. While reading an article on MDN, i saw a list of libraries for the canvas elements. I'll probably try to use one next time as the process of drawing with the default functions is very time consuming. And i'm saying that when what i drawn was actually very simple shapes!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c8ed0abb62ec5f689521debd101a60bfd09c152c](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c8ed0abb62ec5f689521debd101a60bfd09c152c)
 
 
 ### Day 28: May 2, 2023
@@ -261,7 +261,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I have a lot of difficulties navigating my code. I said it (and by 'it' i mean my spaguetti code) won't happen again but i guess i didn't act on it. Contrary to what i initially annonced, i will limit that project to the Hangman game. There's already a ton of stuff to do, no need to add more complexity on a code which is barely manageable as it is. For now, i'm going to add a few features and refactor as much code as possible so i can finish this smoothly.     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/7517254cc5bff96c45a4e56236be7a177b74622c](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/7517254cc5bff96c45a4e56236be7a177b74622c)
 
 
 ### Day 29: May 3, 2023
@@ -270,7 +270,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I refactored as much functions as possible. It's not ideal but it's still a huge improvement compared to yesterday. The code is now clear enough so that i can finish this application without losing too much time. I think i'm slowly getting better at writing 'decent' functions ( by that i mean functions with a clear name and focused on one task). That's the impression i have anyways.     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647)
 
 
 ### Day 30: May 4, 2023
@@ -279,7 +279,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** The script have now more than 800 lines of code which makes this application the 'bigger' i've done until now. This size is a problem though, i lose a lot of time double checking my code even with dual screen. This morning, i spend 20 minutes on a simple error caused by a function i created twice. Turned out that the one being called in that case is the one being declared last. It's logic but it never happened to me before so i was still surprised. This project is a nest of mistakes. That's good, i'll learn a ton from it!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878)
 
 
 ### Day 31: May 5, 2023
@@ -288,7 +288,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** The end is near! I just noticed that i started this application more than one week ago which makes it the one i've worked on the longest (others will follow!). I did good progress today and, unless there's big complications ahead, i think i can finish this project tomorrow.      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f)
 
 
 ### Day 32: May 6, 2023
@@ -298,7 +298,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** As of now, i considered this project finished. There's a lot more i could do here but it has to end eventually and i'm satisfied with what i built here. This project was supposed to be a chain of three games but in the end i only delivered one. That being said, this game was the hardest i planned out of the three and i think a learned a lot from its development. I now give my functions a proper name reflecting what they do and only that. I also designed them to do one thing and if i need something else i just create another function. I will improve a lot more once i'll have learn to make them more scalable, more reusable depending of the circonstances. I also need to learn classes and modules as soon as possible. My JavaScript file on that project have more than a thousand lines of code and i don't want to work with that again. I need to abstract more, hide complexity so that i can better focus on just implementing each features without causing a ton of problems elsewhere.
 I have a three days weekend so i'm going to take the time to think about the projects i have to do. No more random applications, i need to select projects that i can learn the most from. Projects i can actually use in a portfolio to secure a job!       
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214)
 
 
 ### Day 33: May 7, 2023
@@ -517,3 +517,12 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** Both courses had a heavy focus on CSS's position property. This is great because I have difficulties keeping a page responsive when there are elements with absolute positioning. The next course is a certification one and apparently, I have to build technical documentation, looks fun!
 
 **Link to work:** [Picasso & Piano](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f4419787caa4e3e3a888605243a05a86e4147a1)
+
+
+### Day 57: May 1 2023
+
+**Today's Progress:** I started a certification course on freeCodeCamp curriculum. The goal is to create fake technical documentation. The subject being free, I chose to target the game engine Construct 3 as I am currently learning it. The HTML part is pretty much done as all the content has been implemented. CSS is underway.
+
+**Thoughts:** I used ChatGPT to generate the documentation content. I like using AI that way because it helps to deal with unsavory tasks so that one can better focus on learning what matters.
+
+**Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/739ab7a8721f510d7677c4ac2010eaab4ab4e4a8)
