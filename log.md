@@ -307,7 +307,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 
 **Thoughts:** I'm trying to use my three days weekend efficiently. The goal is to come up with a well thought learning plan i can follow for the next weeks. To be honest, i'm still on it. Aside from that, i tried to think about a way to find a job in web development as fast as possible. My best friend recommended i build a good CV, motivation's letter and portfolio then send copies to all valid potential employers i can find. I wanted to learn how to use Figma (i think it's a good line on a front end's developer curriculum) so i started building my cv using it. The ideal would be to finish it in the next 24 hours so i can concentrate on the letter but i'm not sure i can do it...      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d](Learning JavaScript)
+**Link to work:**[Learning JavaScript](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d)
 
 
 ### Day 34: May 8, 2023
@@ -316,7 +316,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 
 **Thoughts:** Learning more about JavaScript is definitely a good thing, the more i read the more i realize i'm actually using a lot of JavaScript features without really knowing what happens in the back of the store. Best thing is that a part of what i'm currently learning can be applied to other languages (i'm trying to learn Lua, specifically for game development and the two languages have a lot of similarities) which helps a lot. I'm going to spend the rest of the day working on Figma, finding a new JS project i can start tomorrow and, hopefully, starting some real game development / prototyping. There's a lot to do, have to go!      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/48a4c07959f4cd2bc8208aef74fba09840e2a6c6](Learning JavaScript)
+**Link to work:**[Learning JavaScript](https://github.com/joanFaseDev/100-days-of-code-projects/commit/48a4c07959f4cd2bc8208aef74fba09840e2a6c6)
 
 
 ### Day 35: May 9, 2023
@@ -326,7 +326,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 **Thoughts:** Working with Figma to prototype an application's design early in a project seems like a good idea. Sure it takes some time and research but the design obtained that way works like a roadmap and make the HTML & CSS part way more simple.
 I'm trying to use JavaScript objects on that project to apply what i learned this weekend. I'm not sure about the implementation yet but experimenting is a good way to learn so wait and see!    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c)
 
 
 ### Day 36: May 10, 2023
@@ -335,7 +335,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I experimented some more today. Erased as much lines as i created but i very much prefer taking the time to find a decent implementation early in the development. I don't want to spend hours in writing codes to finally hit a wall and realize i have to start on more solid basis. Most on my reflections were actually wrote on paper which makes me realize studying pseudo code or languages like UML may be incredibly worth in the long run.    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c)
 
 
 ### Day 37: May 11, 2023
@@ -344,7 +344,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** There's too many flaws in my current impementation, i'm gonna start something different based on simple conditions focused on three properties, one for the first value (left operand) another for the second value and a last one for the operator between them.    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a6f3144f205db5b03bd52125844a8d0c7bd86d7](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a6f3144f205db5b03bd52125844a8d0c7bd86d7)
 
 
 ### Day 38: May 12, 2023
@@ -353,7 +353,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The way i'm currently coding this application is probably not the best but that's the one i found by myself and if i can finish this project with it i'll be satisfied enough. I kept using pseudo-code to wrote most of the logic i implemented today. I really enjoy this process, i found it useful because i'm someone who's pretty bad at 'thinking logically'. Write on paper helps me see the flaws in my design (not all unfortunately) and partially correct it which is a definite improvement!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c)
 
 
 ### Day 39: May 13, 2023
@@ -362,7 +362,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The application seems to work fine. I tested various things manually but it's time consuming and far from being efficient. I'll probaby have to learn how to write and configure proper tests in the long run but it's not a priority yet. I reused lots of code near the end which is not ideal but i was eager to finish the JS part and play with styles. I'm probably gonna review some basics of HTML and CSS in the next days. As of yesterday, i'm unemployed and i wish to use my free time to 1) work on my CV and job research 2) list what i currently know and what fundamental web developer skills do i miss at this point.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6e3efa71a61ac8aa2b0319e0a8330628eef86cd](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6e3efa71a61ac8aa2b0319e0a8330628eef86cd)
 
 
 ### Day 40: May 14, 2023
@@ -371,7 +371,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The task today was surprisingly easy. All i did was follow what i've done on Figma last week. At this point, i think i'm gonna include Figma (or any other apps dedicated to prototyping user interface) in my workflow for all futur projects. The gain of time is massive and the synergy between the application and CSS makes styling easier and more enjoyable.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b)
 
 
 ### Day 41: May 15, 2023
@@ -446,7 +446,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be](Prototypes/CSSGrid)
 
 
-### Day 49: May 22 2023
+### Day 49: May 23 2023
 
 **Todays Progress:** I finished reviewing the basics of CSS Grid. I started training my problem-solving skills on [code kata](http://codekata.com) and I also finished the first part of freeCodeCamp's course on responsive design. The survey I produced was approved before I even got the time to style it though so I'll finish it tomorrow.
 
@@ -455,7 +455,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007](Prototypes/CSSGrid)
 
 
-### Day 50: May 23 2023
+### Day 50: May 24 2023
 
 **Todays Progress:** Spend all my available time on the survey's styling. It's decent but not responsive which is something i'm not satisfied with. I intend to correct that this weekend.
 
@@ -464,7 +464,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
 
 
-### Day 51: May 24 2023
+### Day 51: May 25 2023
 
 **Todays Progress:** I finished the rothko painting, the photo gallery and the nutrition label courses of the responsive design cursus.
 
@@ -473,7 +473,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 **Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
 
 
-### Day 52: May 25 2023
+### Day 52: May 26 2023
 
 **Todays Progress:** I finished the quiz course of the responsive design cursus.
 
@@ -519,10 +519,20 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Link to work:** [Picasso & Piano](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f4419787caa4e3e3a888605243a05a86e4147a1)
 
 
-### Day 57: May 1 2023
+### Day 57: May 31 2023
 
 **Today's Progress:** I started a certification course on freeCodeCamp curriculum. The goal is to create fake technical documentation. The subject being free, I chose to target the game engine Construct 3 as I am currently learning it. The HTML part is pretty much done as all the content has been implemented. CSS is underway.
 
 **Thoughts:** I used ChatGPT to generate the documentation content. I like using AI that way because it helps to deal with unsavory tasks so that one can better focus on learning what matters.
 
 **Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/739ab7a8721f510d7677c4ac2010eaab4ab4e4a8)
+
+
+### Day 58: June 01 2023
+
+**Today's Progress:** I finished the technical documentation course on freeCodeCamp. The page is fully responsive and all user stories have been reached.
+
+**Thoughts:** I'm satisfied with what I achieved on that challenge. I used a few colors (3) and, except for the transitions and some icons from [Font Awesome](https://fontawesome.com/), there's nothing fancy in the document. Yet, it is pleasant to the eyes, fully responsive, and relatively accessible (I used [::webkit-scrollbar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar) which is a feature considered **non-standard** by MDN as it doesn't work for every user). What I like about this project is that I can revisit it later to update it once I'll learn more about CSS.
+
+**Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e6ca21a13ea5c6d482cd9eb98249bd00325a868a)
+

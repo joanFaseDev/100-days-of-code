@@ -519,10 +519,19 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Link to work:** [Picasso & Piano](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9f4419787caa4e3e3a888605243a05a86e4147a1)
 
 
-### Day 57: May 1 2023
+### Day 57: May 31 2023
 
 **Today's Progress:** I started a certification course on freeCodeCamp curriculum. The goal is to create fake technical documentation. The subject being free, I chose to target the game engine Construct 3 as I am currently learning it. The HTML part is pretty much done as all the content has been implemented. CSS is underway.
 
 **Thoughts:** I used ChatGPT to generate the documentation content. I like using AI that way because it helps to deal with unsavory tasks so that one can better focus on learning what matters.
 
 **Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/739ab7a8721f510d7677c4ac2010eaab4ab4e4a8)
+
+
+### Day 58: June 01 2023
+
+**Today's Progress:** I finished the technical documentation course on freeCodeCamp. The page is fully responsive and all user stories have been reached.
+
+**Thoughts:** I'm satisfied with what I achieved on that challenge. I used a few colors (3) and, except for the transitions and some icons from [Font Awesome](https://fontawesome.com/), there's nothing fancy in the document. Yet, it is pleasant to the eyes, fully responsive, and relatively accessible (I used [::webkit-scrollbar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar) which is a feature considered **non-standard** by MDN as it doesn't work for every user). What I like about this project is that I can revisit it later to update it once I'll learn more about CSS.
+
+**Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e6ca21a13ea5c6d482cd9eb98249bd00325a868a)
