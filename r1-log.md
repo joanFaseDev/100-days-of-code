@@ -535,3 +535,12 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** I'm satisfied with what I achieved on that challenge. I used a few colors (3) and, except for the transitions and some icons from [Font Awesome](https://fontawesome.com/), there's nothing fancy in the document. Yet, it is pleasant to the eyes, fully responsive, and relatively accessible (I used [::webkit-scrollbar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar) which is a feature considered **non-standard** by MDN as it doesn't work for every user). What I like about this project is that I can revisit it later to update it once I'll learn more about CSS.
 
 **Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e6ca21a13ea5c6d482cd9eb98249bd00325a868a)
+
+
+### Day 59: June 02 2023
+
+**Today's Progress:** I finished the City Skyline course on freeCodeCamp.
+
+**Thoughts:** The goal of this course was to introduce CSS variables as well as gradients by building a responsive city skyline that switches from day to night based on the screen's current resolution. I enjoyed this project because there's much to learn from it, particularly the naming convention for classes and the unit lengths used to make the page responsive.
+
+**Link to work:** [City Skyline](https://github.com/joanFaseDev/100-days-of-code-projects/commit/4e0ff7cbcad9169d952f7bca5a491304eeeab80d)

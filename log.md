@@ -380,7 +380,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The goal with working on memory through Anki is to slowly prepare myself for job's interview. I focus on concepts only, not languages syntax. The carousel project is something i thought of after realizing i actually enjoy working on and with UI interfaces. I wanted to reuse Figma, which i did, to set up the habit of doing a mockup every time i start a new project. I want something of a workflow and i want an application like Figma in it. This project will propably be centered on CSS but i'm gonna try to make some time to work on JavaScript daily. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2)
 
 
 ### Day 42: May 16, 2023
@@ -389,7 +389,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I know that there's really good coding environment online (like CodePen) to create prototypes but i wanted to keeps things locked and controlled, not be bothered every time i decide to test a JS library (i'm gonna test [rolly.js](https://mickaelchanrion.github.io/rolly/) soon) and can't for compatibility issues. For now, i'm gonna try various things with **position**, **opacity** and **animation** properties, the last one being something i anticipate quite a lot!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/53a2cbaec88c9206aa0a136efb9ddbfc8dc676eb](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/53a2cbaec88c9206aa0a136efb9ddbfc8dc676eb)
 
 
 ### Day 43: May 17, 2023
@@ -398,7 +398,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The second demo is basically what i planned as the current challenge's project but i don't feel like stopping there. I have fun working with JavaScript AND CSS. Working on visuals and design is something i really enjoy so i decided to expand the project's scope. I'm gonna do a set of images carousels with sightly different implementations and group them all on the same page. Then i'll add a nice scrolling effect to slide from one carousel to the next. It looks like a good project because i can train on nice scrolling and sliding effects that i will reuse on other projects like, for example, building my personal website! Well not now but in a, i hope, not so distant future!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1071409732901fa1e576b946523c3153eff597c0](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1071409732901fa1e576b946523c3153eff597c0)
 
 
 ### Day 44: May 18, 2023
@@ -407,7 +407,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today wasn't really the productive day i escompted but what really matters is being consistent and i did worked today so that's probably good. I lost a fair amount of time trying to implement the **slick** library. There's no doubt that i lack experience with APIs but i found the documentation lacking in clarity (again it's probably my fault in the end). Tomorrow i'll try another API with similar features. That way i can compare both implementations and maybe be a little less biaised.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89)
 
 
 ### Day 45: May 19, 2023
@@ -416,7 +416,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I'm pretty satisfied with the slider i've built. There's no JS or CSS frameworks involved here so, even if i do end up using some later, at the very least i now know the theory and that kind of knowledge is never useless. I also understood one very important thing about the **object-fit** property, it only works if the img element have a defined size! I used the property in many occasions but never actually bother trying to understand why it only worked half the time...
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b)
 
 
 ### Day 46: May 20 2023
@@ -425,7 +425,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I tried to do various things today and i achieved most of them (freeCodeCamp course, testing Flickity, adding front-end developer's interview questions to Anki, reading some article about SOLID principles) but didn't progress very well on the carousel application. Considering i already learn quite a lot on carousels and sliders since the beginning of this project, i'm gonna try to finish fast so i can focus on something else, something more relevant in term of 'finding a front-end developer job'! 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649)
 
 
 ### Day 47: May 21 2023
@@ -434,7 +434,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I'm ending the images carousel project with this work. I ended up doing much more than what i initially planned and still it doesn't feel like enough considering what i read in the Flickity documentation. There was a lot of features i didn't explore starting by the JS ones i didn't touch at all. Globally, i didn't like this project and i know why. That's because i didn't have a precise scope and a plan to follow. Like i said, i didn't stick with what i have planned and ended up doing things randomly which is something i'm not confortable with. I like to plan things, stick to it and, once finished, plan more things on top of it or not. That's something i realized this week so i guess this discovery in itself is worth the trouble because now i know the recipe to create a confortable situation for myself!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417)
 
 
 ### Day 48: May 22 2023
@@ -535,4 +535,13 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** I'm satisfied with what I achieved on that challenge. I used a few colors (3) and, except for the transitions and some icons from [Font Awesome](https://fontawesome.com/), there's nothing fancy in the document. Yet, it is pleasant to the eyes, fully responsive, and relatively accessible (I used [::webkit-scrollbar](https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar) which is a feature considered **non-standard** by MDN as it doesn't work for every user). What I like about this project is that I can revisit it later to update it once I'll learn more about CSS.
 
 **Link to work:** [Technical Documentation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e6ca21a13ea5c6d482cd9eb98249bd00325a868a)
+
+
+### Day 59: June 02 2023
+
+**Today's Progress:** I finished the City Skyline course on freeCodeCamp.
+
+**Thoughts:** The goal of this course was to introduce CSS variables as well as gradients by building a responsive city skyline that switches from day to night based on the screen's current resolution. I enjoyed this project because there's much to learn from it, particularly the naming convention for classes and the unit lengths used to make the page responsive.
+
+**Link to work:** [City Skyline](https://github.com/joanFaseDev/100-days-of-code-projects/commit/4e0ff7cbcad9169d952f7bca5a491304eeeab80d)
 
