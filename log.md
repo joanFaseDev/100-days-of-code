@@ -443,7 +443,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I decided to spend a couple of days on Grid and the animation property. The first is an incredible layout tool that have great synergy with flexbox (which i use a lot) and the second is greate to create visual appeal which is something i have a keen interest in. I intend to use this new knowledge to create an interactive quizz focused on layout and smooth transition.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be](Prototypes/CSSGrid)
+**Link to work:**[Prototypes/CSSGrid](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be)
 
 
 ### Day 49: May 23 2023
@@ -452,7 +452,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I took a decision a few minutes ago. I'm going to commit and complete two full courses on freeCodeCamp.com, the one on responsive design and then the one on JavaScript. The reason why is that I need to learn how to use a front framework (React, Vue, Angular, one of these) and I need it because I feel it'll be way easier to find a job if I can add and demonstrate that skill on my resume. But I want to be sure I have a decent level of HTML, CSS, and JS before focusing on frameworks. I can't wait forever so I'm setting up a clock. I commit to these two courses, finish them then framework, no more delaying. I don't know if that's a good plan but it's a plan and it's something I need. I wrote it before, I need a clear direction. So let's try this!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007](Prototypes/CSSGrid)
+**Link to work:**[Prototypes/CSSGrid](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007)
 
 
 ### Day 50: May 24 2023
@@ -544,4 +544,13 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** The goal of this course was to introduce CSS variables as well as gradients by building a responsive city skyline that switches from day to night based on the screen's current resolution. I enjoyed this project because there's much to learn from it, particularly the naming convention for classes and the unit lengths used to make the page responsive.
 
 **Link to work:** [City Skyline](https://github.com/joanFaseDev/100-days-of-code-projects/commit/4e0ff7cbcad9169d952f7bca5a491304eeeab80d)
+
+
+### Day 60: June 03 2023
+
+**Today's Progress:** I finished the Magazine course on freeCodeCamp.
+
+**Thoughts:** This course was an introduction to CSS Grid as well as various CSS functions specific to this layout method like repeat() and minmax(). I had to check MDN a few times because some pieces of information (e.g. what exactly is min-content?) were missing but overall the project was interesting and did a good job at laying out (did you get it?) the basics of Grid. I'm probably gonna use CodePen to practice setting up layouts with Grid, I'll also force myself to use it on the next projects. Grid is mandatory in modern CSS and I want to get good enough with it that I can combine Grid and Flexbox to create easy and intermediate layouts without much difficulty.
+
+**Link to work:** [Magazine](https://github.com/joanFaseDev/100-days-of-code-projects/commit/14ae7d4a8403ea936db41600bf672fd82519ac3f)
 

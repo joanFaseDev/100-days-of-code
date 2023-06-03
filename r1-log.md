@@ -544,3 +544,12 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** The goal of this course was to introduce CSS variables as well as gradients by building a responsive city skyline that switches from day to night based on the screen's current resolution. I enjoyed this project because there's much to learn from it, particularly the naming convention for classes and the unit lengths used to make the page responsive.
 
 **Link to work:** [City Skyline](https://github.com/joanFaseDev/100-days-of-code-projects/commit/4e0ff7cbcad9169d952f7bca5a491304eeeab80d)
+
+
+### Day 60: June 03 2023
+
+**Today's Progress:** I finished the Magazine course on freeCodeCamp.
+
+**Thoughts:** This course was an introduction to CSS Grid as well as various CSS functions specific to this layout method like repeat() and minmax(). I had to check MDN a few times because some pieces of information (e.g. what exactly is min-content?) were missing but overall the project was interesting and did a good job at laying out (did you get it?) the basics of Grid. I'm probably gonna use CodePen to practice setting up layouts with Grid, I'll also force myself to use it on the next projects. Grid is mandatory in modern CSS and I want to get good enough with it that I can combine Grid and Flexbox to create easy and intermediate layouts without much difficulty.
+
+**Link to work:** [Magazine](https://github.com/joanFaseDev/100-days-of-code-projects/commit/14ae7d4a8403ea936db41600bf672fd82519ac3f)
