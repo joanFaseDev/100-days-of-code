@@ -461,7 +461,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Styling this survey took me a lot of time but i learned a few things along the way. For example, the CSS at-rule **@font-face** that can load a custom font to display a text or the fact that radio and checkbox buttons are complicated to style because they're native elements of the browser.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
+**Link to work:**[Survey Form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866)
 
 
 ### Day 51: May 25 2023
@@ -470,7 +470,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I enjoy freeCodeCamp active teaching's style. The user is constantly coding, following instructions that are first very detailed and then later more concise. That way we are learning by repetition and then by memory. Also, I could gain a lot from their coding habit. The way they use CSS classes for example, as simple components dedicated to one task they can reuse on multiple elements, seems simple but efficient to me.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4)
 
 
 ### Day 52: May 26 2023
@@ -479,7 +479,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today's course was focused on accessibility which is a main subject of modern web development. I'll remember the various meta tag and the informations they can provide (description, mobile viewport, character encoding, ...), the role attribute but also the placeholder attribute being somewhat bad for accessiblity.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824](freeCodeCamp/courses/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824)
 
 
 ### Day 53: May 27 2023
@@ -488,7 +488,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today's focus was on responsive design and accessibility. I used CSS at-rules, media queries, and HTML meta elements to apply the basics I learned this week. freeCodeCamp's curriculum feels right and I'm enjoying the learning process but I also need to regularly practice aside from the courses to test my new knowledge. I feel I can progress faster that way. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a](freeCodeCamp/projects/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a)
 
 
 ### Day 54: May 28 2023
@@ -554,3 +554,21 @@ The balance sheet course was kind of strange because I felt we could have obtain
 
 **Link to work:** [Magazine](https://github.com/joanFaseDev/100-days-of-code-projects/commit/14ae7d4a8403ea936db41600bf672fd82519ac3f)
 
+
+### Day 61: June 04 2023
+
+**Today's Progress:** I started the product landing page on freeCodeCamp curriculum. All the content is created and the HTML part is as good as done. Currently working on the hamburger navbar.
+
+**Thoughts:** This project is a certification one which means I have some freedom to experiment on the subject, the layout, the design, etc... I am going to build a page focused on a fake game engine whose features were created by ChatGPT using the characteristics I provided. Using IA to generate content is something I'm going to integrate into my workflow. The gain of time is tremendous. Plus I have always found this kind of work time-consuming and very frustrating as it finally have little to do with coding.
+On a separate note, I started the creation of a hamburger menu for the page. I'll display on it a game logo I created through Figma.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)
+
+
+### Day 62: June 05 2023
+
+**Today's Progress:** I finished implementing the hamburger navbar and did most of the CSS rules for the mobile design.
+
+**Thoughts:** I created a Codepen account so I don't have to set up a new repository every time I want to test a feature. My first pen was the hamburger navbar which isn't as pretty as I would have hoped but is decent enough for now. I'll try to find some time next weekend to practice interactivity with only HTML & CSS.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)

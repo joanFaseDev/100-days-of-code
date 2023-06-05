@@ -553,3 +553,22 @@ The balance sheet course was kind of strange because I felt we could have obtain
 **Thoughts:** This course was an introduction to CSS Grid as well as various CSS functions specific to this layout method like repeat() and minmax(). I had to check MDN a few times because some pieces of information (e.g. what exactly is min-content?) were missing but overall the project was interesting and did a good job at laying out (did you get it?) the basics of Grid. I'm probably gonna use CodePen to practice setting up layouts with Grid, I'll also force myself to use it on the next projects. Grid is mandatory in modern CSS and I want to get good enough with it that I can combine Grid and Flexbox to create easy and intermediate layouts without much difficulty.
 
 **Link to work:** [Magazine](https://github.com/joanFaseDev/100-days-of-code-projects/commit/14ae7d4a8403ea936db41600bf672fd82519ac3f)
+
+
+### Day 61: June 04 2023
+
+**Today's Progress:** I started the product landing page on freeCodeCamp curriculum. All the content is created and the HTML part is as good as done. Currently working on the hamburger navbar.
+
+**Thoughts:** This project is a certification one which means I have some freedom to experiment on the subject, the layout, the design, etc... I am going to build a page focused on a fake game engine whose features were created by ChatGPT using the characteristics I provided. Using IA to generate content is something I'm going to integrate into my workflow. The gain of time is tremendous. Plus I have always found this kind of work time-consuming and very frustrating as it finally have little to do with coding.
+On a separate note, I started the creation of a hamburger menu for the page. I'll display on it a game logo I created through Figma.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)
+
+
+### Day 62: June 05 2023
+
+**Today's Progress:** I finished implementing the hamburger navbar and did most of the CSS rules for the mobile design.
+
+**Thoughts:** I created a Codepen account so I don't have to set up a new repository every time I want to test a feature. My first pen was the hamburger navbar which isn't as pretty as I would have hoped but is decent enough for now. I'll try to find some time next weekend to practice interactivity with only HTML & CSS.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)
