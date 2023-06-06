@@ -107,7 +107,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I mainly did research today which is something i always feel bad about because the time spent 'not coding' seems like 'unproductive' to me. It's stupid of course, smart planning makes you gain time in the long run and help boost your productivity, not the opposite. Following a MDN's article on goals and learning curve, i started writing my objective for the futur (getting a front-end developper job) and how i could accomplish it. While i was writing, i realize i never really wondered what kind of developer i wanted to be or what exactly do i prefer in developement. I think i need to answer these questions first before finishing my plan.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ce47c55103b5b78ad3fe6d8b6f7b5e4a1577a0c3)
 
 
 ### Day 12: April 16, 2023
@@ -116,7 +116,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I didn't progress that much on the application but i'm satisfied with what i wrote, i think i'm going in the right direction. I'm not using any new knowledge on this particular project but i'm still working on my problem solving skill and it feels like valuable work. Aside from that, i keep reading [JavaScript Info](https://javascript.info/)'s content. Hopefully, the next projects will capitalize on what i picked up along the way.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6a7dbd7efb9f9620490c687094d93894ee53957)
 
 
 ### Day 13: April 17, 2023
@@ -125,7 +125,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I could barely code a couple of hours today but still there's real progress on the application and i think it might be over tomorrow depending on what i can accomplish before going to work (it's the time where i'm the least tired and the more focused). Having a job makes this 100 days challenge more complicated yet i feel i'll be ok as long as i can do my best every day. Even two hours of coding daily is fine, what matters is consistency. That's what makes the difference in the long run.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/41170f1e76388de449369e3b210b037cbb3b5879](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/41170f1e76388de449369e3b210b037cbb3b5879)
 
 
 ### Day 14: April 18, 2023
@@ -134,7 +134,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 
 **Thoughts:** I kinda rush the last part of the application (a bit of JS logic but mainly the CSS part). Having so little time to pratice coding made me eager to work on various projects and so i felt compelled to finish this app and start something new. It's kinda disapointing but in the end i think i did ok. The app would have definitely benefit from a few more hours of work but the logic part is fine. For once i think i did something kinda scalable and that's definitely an achievement i can be proud of. Also i learned that styling a table isn't as easy as it seems. I will definitely look into that in a near future. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/6999fd0af124fc51d388a5cd0f68c01d5a8b7ad4](Multiple Choice Questions)
+**Link to work:** [Multiple Choice Questions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6999fd0af124fc51d388a5cd0f68c01d5a8b7ad4)
 
 
 ### Day 15: April 19, 2023
@@ -144,7 +144,7 @@ This project is now finished, i'm satisfied with the result and will take some t
 **Thoughts:** For this application, i'm coding along a written tutorial. Initially i was scared that relying on guides/tutorials prevent me from searching/developping my own solutions but i made a point of testing/refactoring what i read and in the end, i find the process rather enjoyable. It's a good opportunity to learn from more experienced developers and hopefully pick up some valuable informations concerning clean code, programming, ...
 Since i started this challenge, i did almost all projects on my own so it's really refreshing to see ways of solving problems different than my own. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3249decc97afe613f6a64af13f7aae250770c384)
 
 
 ### Day 16: April 20, 2023
@@ -153,7 +153,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Today was really interesting. I learned about the setInterval() function and decided to instantly like it. It's easy to use and open far too many possibilities to count. I also want to try a 'new' method of learning where i basically make pair of projects: the first one in a guided 'safe' environment (throught tutorials) and the second, based on the first's knowledge, where i code alone and must think by myself. It seems like a good method of 'learning then checking if i understood correctly'.  
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/8fa54a56f595d818f2014a28926900f41ec2cbbd)
 
 
 ### Day 17: April 21, 2023
@@ -162,7 +162,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** This project was really interesting. Following a guide gave me good tips on clean code and let me discovered useful features like the setInterval() function or more generally how to convert milliseconds into seconds, minutes, hours and days. I also learned a good use of the modulo operator!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb](Countdown)
+**Link to work:** [Countdown](https://github.com/joanFaseDev/100-days-of-code-projects/commit/5986005fbd0024bcc1ab5f59ea6fb9c5228bfbfb)
 
 
 ### Day 18: April 22, 2023
@@ -171,7 +171,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** This project will probably be the biggest one yet. There's a lot of features to test and implement so i'll probably work on it for quite some time. I'm using Pomofocus as a visual reference as i quite like this website and find it well designed. Looking at it more closely, there's a lot of small features / styles i never take notice of before (e.g box-shadow on a button being pressed, a tiny icon indicating a task is now completed, ...). It's kind of cool to rediscover under new lights something you thought you were quite familiar with.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/16760553f2f3b7b024107fb2ec0d8ea69a3a2b59](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/16760553f2f3b7b024107fb2ec0d8ea69a3a2b59)
 
 
 ### Day 19: April 23, 2023
@@ -180,7 +180,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I'm quite satisfied of what i implemented today or more precisely how i implemented it. I listed what i wanted to accomplish and break down each task into smaller steps. Written down my process before actually coding anything made me feel way more in control than usual. Of course, i wasn't always right and sometimes things turned out wrong but at the very least i had a plan to follow which is both reassuring when coding and extremely enjoyable when the coding is done and what was written is actually working correctly. I like coding this way so i'm gonna stick to it from now on.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/34ee601fd8a5bab63680fec86cd2154fce8291d6](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/34ee601fd8a5bab63680fec86cd2154fce8291d6)
 
 
 ### Day 20: April 24, 2023
@@ -189,7 +189,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I keep writing down the tasks i must work on then try to divide these tasks into smaller units. I really want to make this process a habit as i truly think it'll will make things so much easier in the long run (and not only as a developer as this skill can probably be applied to a lot more areas). I'm progressing well on the application but today i copied/pasted a lot of code and i feel that some refactoring will soon be needed. I really need to learn how to use classes and objects in JavaScript, my code always looks like a giant dish of spaghettis and it's getting more and more troublesome as project goes. Next weekend, i will also learn how to use branches in git. My projects becoming bigger, branches will soon be very valuables.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/5a3eadeb3951b41feffdcca99e0b9e4e20384f3b](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/5a3eadeb3951b41feffdcca99e0b9e4e20384f3b)
 
 
 ### Day 21: April 25, 2023
@@ -198,7 +198,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I think i'm gonna rewrite several parts of the application. My messy code is one thing but i feel the way i built this project is wrong. Adding the new feature was difficult because i couldn't built on what i previously established. It seems i didn't plan well enough so the best thing i can do is recognize my poor judgement / building skill and try to correct what i can as best as possible.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f735fa5fe9cabfbd26b59cd96349a2ab3b429300](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f735fa5fe9cabfbd26b59cd96349a2ab3b429300)
 
 
 ### Day 22: April 26, 2023
@@ -207,7 +207,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** While i clearly lack the knowledge to rewrite efficiently my previous code, i'm somewhat satisfied of what i accomplished today. It's far from perfect but still way better than my previous implementation, it's less verbose and more reliant on functions. I also tried to make my code more scalable by writing function that can be use in more than one case. Overall, i found that refactoring is acutally a pleasant experience and  probably a very good exercice for anyone trying to improve its code writing skill. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/678ae946d4047b6ac1f21fc5dd13bc6dc282242b](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/678ae946d4047b6ac1f21fc5dd13bc6dc282242b)
 
 
 ### Day 23: April 27, 2023
@@ -216,7 +216,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** The application is still missing some juicy features (ring sound at the end of a countdown, a task manager,...) but the default functionalities are here and i think it's possible to build on it. Initially i planned to keep working on the app, mainly to add the task manager, but now that i have something working i must confess that i'm eager to work on something else. Maybe something smaller where i can actually work on my basics. If anything, this project made me realize that programming language isn't worth much without proper planning and smart decision making. To acquire that, i need knowledge of my pairs and small projects i can test it out!  
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/46ebc78a40800677d51a9236d467b15e51471857](Pomodoro)
+**Link to work:**[Pomodoro](https://github.com/joanFaseDev/100-days-of-code-projects/commit/46ebc78a40800677d51a9236d467b15e51471857)
 
 
 ### Day 24: April 28, 2023
@@ -225,7 +225,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I'm not really set on the how and what of this application. I just wanted a project i could use to test out what i'm currently learning on [JavaScript.info](https://javascript.info/). My goal with this project is to focus on writing clean code and developping my problem solving skills. It's the last day of the week (which mean my fatigue is at its peak) but tomorrow i'll have a more concrete idea of the direction i want to go with this application.   
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3eccf2e6caed8f827cb19c1646bfb95b832adfc6)
 
 
 ### Day 25: April 29, 2023
@@ -234,7 +234,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Lately i realized my learning plan is a mess. More accurately, i don't have an end goal. I wish to get a job as a developper but i didn't really research the kind of skills needed to get it. I think that realization in itself is a progress. Once i figured out the skills needed, i'll research projects that are using theses skills. Projects that can actually help selling myself. For now, i'm learning JavaScript. I created a project where i can test examples and snippets in a small environment. I'm currently revisiting functions and it's really unbelievable how i can use them daily and know so little about them!    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9808fa4e5aa9f4d842a677909f14905bf54d389](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9808fa4e5aa9f4d842a677909f14905bf54d389)
 
 
 ### Day 26: April 30, 2023
@@ -243,7 +243,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** Truth be told, the Canvas API is probably not something i should spend a lot of time now. I don't think it's a useful skill to rapidly get a developer job... but it's fun! I had a blast this morning introducing myself to the API using the [MDN Tutorial on the subject](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) and there seems to be a lot you can actually do with it. Plus, having an interest in game development and animation, i'm quite fond of this kind of technology. My plan for now is to learn the basics of the API, use it on the current project then try more complex things with it in the future. Writing this, i realize i planned a lot of things lately but rarely follows on it!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6d667c9da2493a6bbfd2b0bca573dd3b4325cf6](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f6d667c9da2493a6bbfd2b0bca573dd3b4325cf6)
 
 
 ### Day 27: May 1, 2023
@@ -252,7 +252,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I spend a lot of time on the drawing but i'm actually happy with the result. I now have a basic knowledge of the Canvas API. While reading an article on MDN, i saw a list of libraries for the canvas elements. I'll probably try to use one next time as the process of drawing with the default functions is very time consuming. And i'm saying that when what i drawn was actually very simple shapes!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c8ed0abb62ec5f689521debd101a60bfd09c152c](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c8ed0abb62ec5f689521debd101a60bfd09c152c)
 
 
 ### Day 28: May 2, 2023
@@ -261,7 +261,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I have a lot of difficulties navigating my code. I said it (and by 'it' i mean my spaguetti code) won't happen again but i guess i didn't act on it. Contrary to what i initially annonced, i will limit that project to the Hangman game. There's already a ton of stuff to do, no need to add more complexity on a code which is barely manageable as it is. For now, i'm going to add a few features and refactor as much code as possible so i can finish this smoothly.     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/7517254cc5bff96c45a4e56236be7a177b74622c](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/7517254cc5bff96c45a4e56236be7a177b74622c)
 
 
 ### Day 29: May 3, 2023
@@ -270,7 +270,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** I refactored as much functions as possible. It's not ideal but it's still a huge improvement compared to yesterday. The code is now clear enough so that i can finish this application without losing too much time. I think i'm slowly getting better at writing 'decent' functions ( by that i mean functions with a clear name and focused on one task). That's the impression i have anyways.     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/cdf4e1d91d5047ae41c33109810d504516325647)
 
 
 ### Day 30: May 4, 2023
@@ -279,7 +279,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** The script have now more than 800 lines of code which makes this application the 'bigger' i've done until now. This size is a problem though, i lose a lot of time double checking my code even with dual screen. This morning, i spend 20 minutes on a simple error caused by a function i created twice. Turned out that the one being called in that case is the one being declared last. It's logic but it never happened to me before so i was still surprised. This project is a nest of mistakes. That's good, i'll learn a ton from it!     
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/955fddad27eb3a13285509c2f26d6486fab84878)
 
 
 ### Day 31: May 5, 2023
@@ -288,7 +288,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 
 **Thoughts:** The end is near! I just noticed that i started this application more than one week ago which makes it the one i've worked on the longest (others will follow!). I did good progress today and, unless there's big complications ahead, i think i can finish this project tomorrow.      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/3bf810ddeef012202a773c7a3fb3a7a56f600b7f)
 
 
 ### Day 32: May 6, 2023
@@ -298,7 +298,7 @@ Since i started this challenge, i did almost all projects on my own so it's real
 **Thoughts:** As of now, i considered this project finished. There's a lot more i could do here but it has to end eventually and i'm satisfied with what i built here. This project was supposed to be a chain of three games but in the end i only delivered one. That being said, this game was the hardest i planned out of the three and i think a learned a lot from its development. I now give my functions a proper name reflecting what they do and only that. I also designed them to do one thing and if i need something else i just create another function. I will improve a lot more once i'll have learn to make them more scalable, more reusable depending of the circonstances. I also need to learn classes and modules as soon as possible. My JavaScript file on that project have more than a thousand lines of code and i don't want to work with that again. I need to abstract more, hide complexity so that i can better focus on just implementing each features without causing a ton of problems elsewhere.
 I have a three days weekend so i'm going to take the time to think about the projects i have to do. No more random applications, i need to select projects that i can learn the most from. Projects i can actually use in a portfolio to secure a job!       
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214](Party Games)
+**Link to work:**[Party Games](https://github.com/joanFaseDev/100-days-of-code-projects/commit/859f33e0f3a1f514a78912cbb4352739089c2214)
 
 
 ### Day 33: May 7, 2023
@@ -307,7 +307,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 
 **Thoughts:** I'm trying to use my three days weekend efficiently. The goal is to come up with a well thought learning plan i can follow for the next weeks. To be honest, i'm still on it. Aside from that, i tried to think about a way to find a job in web development as fast as possible. My best friend recommended i build a good CV, motivation's letter and portfolio then send copies to all valid potential employers i can find. I wanted to learn how to use Figma (i think it's a good line on a front end's developer curriculum) so i started building my cv using it. The ideal would be to finish it in the next 24 hours so i can concentrate on the letter but i'm not sure i can do it...      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d](Learning JavaScript)
+**Link to work:**[Learning JavaScript](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c311cca8dc60e28f88a9e8325805e248357db80d)
 
 
 ### Day 34: May 8, 2023
@@ -316,7 +316,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 
 **Thoughts:** Learning more about JavaScript is definitely a good thing, the more i read the more i realize i'm actually using a lot of JavaScript features without really knowing what happens in the back of the store. Best thing is that a part of what i'm currently learning can be applied to other languages (i'm trying to learn Lua, specifically for game development and the two languages have a lot of similarities) which helps a lot. I'm going to spend the rest of the day working on Figma, finding a new JS project i can start tomorrow and, hopefully, starting some real game development / prototyping. There's a lot to do, have to go!      
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/48a4c07959f4cd2bc8208aef74fba09840e2a6c6](Learning JavaScript)
+**Link to work:**[Learning JavaScript](https://github.com/joanFaseDev/100-days-of-code-projects/commit/48a4c07959f4cd2bc8208aef74fba09840e2a6c6)
 
 
 ### Day 35: May 9, 2023
@@ -326,7 +326,7 @@ I have a three days weekend so i'm going to take the time to think about the pro
 **Thoughts:** Working with Figma to prototype an application's design early in a project seems like a good idea. Sure it takes some time and research but the design obtained that way works like a roadmap and make the HTML & CSS part way more simple.
 I'm trying to use JavaScript objects on that project to apply what i learned this weekend. I'm not sure about the implementation yet but experimenting is a good way to learn so wait and see!    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c)
 
 
 ### Day 36: May 10, 2023
@@ -335,7 +335,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I experimented some more today. Erased as much lines as i created but i very much prefer taking the time to find a decent implementation early in the development. I don't want to spend hours in writing codes to finally hit a wall and realize i have to start on more solid basis. Most on my reflections were actually wrote on paper which makes me realize studying pseudo code or languages like UML may be incredibly worth in the long run.    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ab98426afec836ab4916f9c59b5237f184b8cc8c)
 
 
 ### Day 37: May 11, 2023
@@ -344,7 +344,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** There's too many flaws in my current impementation, i'm gonna start something different based on simple conditions focused on three properties, one for the first value (left operand) another for the second value and a last one for the operator between them.    
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a6f3144f205db5b03bd52125844a8d0c7bd86d7](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a6f3144f205db5b03bd52125844a8d0c7bd86d7)
 
 
 ### Day 38: May 12, 2023
@@ -353,7 +353,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The way i'm currently coding this application is probably not the best but that's the one i found by myself and if i can finish this project with it i'll be satisfied enough. I kept using pseudo-code to wrote most of the logic i implemented today. I really enjoy this process, i found it useful because i'm someone who's pretty bad at 'thinking logically'. Write on paper helps me see the flaws in my design (not all unfortunately) and partially correct it which is a definite improvement!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2dbedfabf3cd880ad38527a39e5bbb839139a71c)
 
 
 ### Day 39: May 13, 2023
@@ -362,7 +362,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The application seems to work fine. I tested various things manually but it's time consuming and far from being efficient. I'll probaby have to learn how to write and configure proper tests in the long run but it's not a priority yet. I reused lots of code near the end which is not ideal but i was eager to finish the JS part and play with styles. I'm probably gonna review some basics of HTML and CSS in the next days. As of yesterday, i'm unemployed and i wish to use my free time to 1) work on my CV and job research 2) list what i currently know and what fundamental web developer skills do i miss at this point.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6e3efa71a61ac8aa2b0319e0a8330628eef86cd](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6e3efa71a61ac8aa2b0319e0a8330628eef86cd)
 
 
 ### Day 40: May 14, 2023
@@ -371,7 +371,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The task today was surprisingly easy. All i did was follow what i've done on Figma last week. At this point, i think i'm gonna include Figma (or any other apps dedicated to prototyping user interface) in my workflow for all futur projects. The gain of time is massive and the synergy between the application and CSS makes styling easier and more enjoyable.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b](Calculator)
+**Link to work:**[Calculator](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ad72a5b5f9e9f25eeb48ad8a9f73b9d9ffc19e0b)
 
 
 ### Day 41: May 15, 2023
@@ -380,7 +380,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The goal with working on memory through Anki is to slowly prepare myself for job's interview. I focus on concepts only, not languages syntax. The carousel project is something i thought of after realizing i actually enjoy working on and with UI interfaces. I wanted to reuse Figma, which i did, to set up the habit of doing a mockup every time i start a new project. I want something of a workflow and i want an application like Figma in it. This project will propably be centered on CSS but i'm gonna try to make some time to work on JavaScript daily. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/bbace69960c9e551d1b46a98e2d6807ef41991e2)
 
 
 ### Day 42: May 16, 2023
@@ -389,7 +389,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I know that there's really good coding environment online (like CodePen) to create prototypes but i wanted to keeps things locked and controlled, not be bothered every time i decide to test a JS library (i'm gonna test [rolly.js](https://mickaelchanrion.github.io/rolly/) soon) and can't for compatibility issues. For now, i'm gonna try various things with **position**, **opacity** and **animation** properties, the last one being something i anticipate quite a lot!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/53a2cbaec88c9206aa0a136efb9ddbfc8dc676eb](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/53a2cbaec88c9206aa0a136efb9ddbfc8dc676eb)
 
 
 ### Day 43: May 17, 2023
@@ -398,7 +398,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** The second demo is basically what i planned as the current challenge's project but i don't feel like stopping there. I have fun working with JavaScript AND CSS. Working on visuals and design is something i really enjoy so i decided to expand the project's scope. I'm gonna do a set of images carousels with sightly different implementations and group them all on the same page. Then i'll add a nice scrolling effect to slide from one carousel to the next. It looks like a good project because i can train on nice scrolling and sliding effects that i will reuse on other projects like, for example, building my personal website! Well not now but in a, i hope, not so distant future!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1071409732901fa1e576b946523c3153eff597c0](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1071409732901fa1e576b946523c3153eff597c0)
 
 
 ### Day 44: May 18, 2023
@@ -407,7 +407,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today wasn't really the productive day i escompted but what really matters is being consistent and i did worked today so that's probably good. I lost a fair amount of time trying to implement the **slick** library. There's no doubt that i lack experience with APIs but i found the documentation lacking in clarity (again it's probably my fault in the end). Tomorrow i'll try another API with similar features. That way i can compare both implementations and maybe be a little less biaised.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e7cf2bd830377313682bc2833873965bd4ceea89)
 
 
 ### Day 45: May 19, 2023
@@ -416,7 +416,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I'm pretty satisfied with the slider i've built. There's no JS or CSS frameworks involved here so, even if i do end up using some later, at the very least i now know the theory and that kind of knowledge is never useless. I also understood one very important thing about the **object-fit** property, it only works if the img element have a defined size! I used the property in many occasions but never actually bother trying to understand why it only worked half the time...
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/8917c93d7638124bc385bb23556823a9d8d2498b)
 
 
 ### Day 46: May 20 2023
@@ -425,7 +425,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I tried to do various things today and i achieved most of them (freeCodeCamp course, testing Flickity, adding front-end developer's interview questions to Anki, reading some article about SOLID principles) but didn't progress very well on the carousel application. Considering i already learn quite a lot on carousels and sliders since the beginning of this project, i'm gonna try to finish fast so i can focus on something else, something more relevant in term of 'finding a front-end developer job'! 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9713d38d94c9b6697c11d0cf8a9837a175fa0649)
 
 
 ### Day 47: May 21 2023
@@ -434,7 +434,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I'm ending the images carousel project with this work. I ended up doing much more than what i initially planned and still it doesn't feel like enough considering what i read in the Flickity documentation. There was a lot of features i didn't explore starting by the JS ones i didn't touch at all. Globally, i didn't like this project and i know why. That's because i didn't have a precise scope and a plan to follow. Like i said, i didn't stick with what i have planned and ended up doing things randomly which is something i'm not confortable with. I like to plan things, stick to it and, once finished, plan more things on top of it or not. That's something i realized this week so i guess this discovery in itself is worth the trouble because now i know the recipe to create a confortable situation for myself!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417](Images Carousel)
+**Link to work:**[Images Carousel](https://github.com/joanFaseDev/100-days-of-code-projects/commit/54db2d4a5b263267f5397e70ccc0519bade12417)
 
 
 ### Day 48: May 22 2023
@@ -443,7 +443,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I decided to spend a couple of days on Grid and the animation property. The first is an incredible layout tool that have great synergy with flexbox (which i use a lot) and the second is greate to create visual appeal which is something i have a keen interest in. I intend to use this new knowledge to create an interactive quizz focused on layout and smooth transition.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be](Prototypes/CSSGrid)
+**Link to work:**[Prototypes/CSSGrid](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c21f418ba06b3824ee0e9040f176c1047290a1be)
 
 
 ### Day 49: May 23 2023
@@ -452,7 +452,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I took a decision a few minutes ago. I'm going to commit and complete two full courses on freeCodeCamp.com, the one on responsive design and then the one on JavaScript. The reason why is that I need to learn how to use a front framework (React, Vue, Angular, one of these) and I need it because I feel it'll be way easier to find a job if I can add and demonstrate that skill on my resume. But I want to be sure I have a decent level of HTML, CSS, and JS before focusing on frameworks. I can't wait forever so I'm setting up a clock. I commit to these two courses, finish them then framework, no more delaying. I don't know if that's a good plan but it's a plan and it's something I need. I wrote it before, I need a clear direction. So let's try this!
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007](Prototypes/CSSGrid)
+**Link to work:**[Prototypes/CSSGrid](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1c1f1124763a60328a26137137e2e432c0f87007)
 
 
 ### Day 50: May 24 2023
@@ -461,7 +461,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Styling this survey took me a lot of time but i learned a few things along the way. For example, the CSS at-rule **@font-face** that can load a custom font to display a text or the fact that radio and checkbox buttons are complicated to style because they're native elements of the browser.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866](freeCodeCamp/courses/responsiveWebDesign/surveyForm)
+**Link to work:**[Survey Form](https://github.com/joanFaseDev/100-days-of-code-projects/commit/95b591830bda39dd31ba0e254c4780e8d163e866)
 
 
 ### Day 51: May 25 2023
@@ -470,7 +470,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** I enjoy freeCodeCamp active teaching's style. The user is constantly coding, following instructions that are first very detailed and then later more concise. That way we are learning by repetition and then by memory. Also, I could gain a lot from their coding habit. The way they use CSS classes for example, as simple components dedicated to one task they can reuse on multiple elements, seems simple but efficient to me.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4](freeCodeCamp/courses/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/55422d8181890bcd7f9923f78901aa3032b105b4)
 
 
 ### Day 52: May 26 2023
@@ -479,7 +479,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today's course was focused on accessibility which is a main subject of modern web development. I'll remember the various meta tag and the informations they can provide (description, mobile viewport, character encoding, ...), the role attribute but also the placeholder attribute being somewhat bad for accessiblity.
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824](freeCodeCamp/courses/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f5639290c27a9364b8d0b0a08f2a3a517347c824)
 
 
 ### Day 53: May 27 2023
@@ -488,7 +488,7 @@ I'm trying to use JavaScript objects on that project to apply what i learned thi
 
 **Thoughts:** Today's focus was on responsive design and accessibility. I used CSS at-rules, media queries, and HTML meta elements to apply the basics I learned this week. freeCodeCamp's curriculum feels right and I'm enjoying the learning process but I also need to regularly practice aside from the courses to test my new knowledge. I feel I can progress faster that way. 
 
-**Link to work:**[https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a](freeCodeCamp/projects/responsiveWebDesign)
+**Link to work:**[Responsive Web Design](https://github.com/joanFaseDev/100-days-of-code-projects/commit/c6ac9bebb463aaaf623da3161a0bffbae52dbe6a)
 
 
 ### Day 54: May 28 2023
@@ -572,3 +572,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** I created a Codepen account so I don't have to set up a new repository every time I want to test a feature. My first pen was the hamburger navbar which isn't as pretty as I would have hoped but is decent enough for now. I'll try to find some time next weekend to practice interactivity with only HTML & CSS.
 
 **Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)
+
+
+### Day 63: June 06 2023
+
+**Today's Progress:** I finished the product landing page project and got my validation from freeCodeCamp.
+
+**Thoughts:** I rushed the project toward the end because I was depressed after I realized I used a lot of code duplication in it. It's entirely my fault, I worked the CSS rules from top to bottom instead of going from general rules to specific ones. Because I worked like that, it became increasingly difficult to progress among the many duplicated rules I created. The lesson is valuable though and this project taught me a lot so I'm satisfied overall. I'll probably upgrade this project in the future, there's a ton of improvements I could think of.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/cc7b49e305ec27f9fda22f62709c804eacaa5431)

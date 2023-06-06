@@ -572,3 +572,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** I created a Codepen account so I don't have to set up a new repository every time I want to test a feature. My first pen was the hamburger navbar which isn't as pretty as I would have hoped but is decent enough for now. I'll try to find some time next weekend to practice interactivity with only HTML & CSS.
 
 **Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1cdd3f1c144cbe5bcc50021a38a5d9ca8d3bbb8c)
+
+
+### Day 63: June 06 2023
+
+**Today's Progress:** I finished the product landing page project and got my validation from freeCodeCamp.
+
+**Thoughts:** I rushed the project toward the end because I was depressed after I realized I used a lot of code duplication in it. It's entirely my fault, I worked the CSS rules from top to bottom instead of going from general rules to specific ones. Because I worked like that, it became increasingly difficult to progress among the many duplicated rules I created. The lesson is valuable though and this project taught me a lot so I'm satisfied overall. I'll probably upgrade this project in the future, there's a ton of improvements I could think of.
+
+**Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/cc7b49e305ec27f9fda22f62709c804eacaa5431)
