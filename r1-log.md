@@ -581,3 +581,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** I rushed the project toward the end because I was depressed after I realized I used a lot of code duplication in it. It's entirely my fault, I worked the CSS rules from top to bottom instead of going from general rules to specific ones. Because I worked like that, it became increasingly difficult to progress among the many duplicated rules I created. The lesson is valuable though and this project taught me a lot so I'm satisfied overall. I'll probably upgrade this project in the future, there's a ton of improvements I could think of.
 
 **Link to work:** [Product Landing Page](https://github.com/joanFaseDev/100-days-of-code-projects/commit/cc7b49e305ec27f9fda22f62709c804eacaa5431)
+
+
+### Day 64: June 07 2023
+
+**Today's Progress:** I completed the ferris wheel and the penguin courses on freeCodeCamp responsive web design curriculum.
+
+**Thoughts:** I just had one more required project to complete to earn my responsive web design certification. The last project is about building a personal portfolio, which I am really excited about. It's great to practice all the things that were covered in this curriculum. I initially planned to pause a little and practice CSS Grid and animations before tackling that project but I changed my mind. I want to start working on it now so I'm going to follow that feeling!
+
+**Link to work:** [Building a ferris wheel & building a penguin](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e07e78d658980e9da6883358e72e15fd30231eec)
