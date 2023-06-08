@@ -590,3 +590,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** I just had one more required project to complete to earn my responsive web design certification. The last project is about building a personal portfolio, which I am really excited about. It's great to practice all the things that were covered in this curriculum. I initially planned to pause a little and practice CSS Grid and animations before tackling that project but I changed my mind. I want to start working on it now so I'm going to follow that feeling!
 
 **Link to work:** [Building a ferris wheel & building a penguin](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e07e78d658980e9da6883358e72e15fd30231eec)
+
+
+### Day 65: June 08 2023
+
+**Today's Progress:** I started the portfolio project on freeCodeCamp. Most of the content is implemented, I've built the navbar and am currently in the process of creating a small avatar I can animate in the first section.
+
+**Thoughts:** This project is HTML and CSS only so this portfolio won't be used for job hunting. Yet, I hope it can serve as a foundation for a more 'job research oriented' portfolio. For now, I'm going to implement in this one what I learned during the freeCodeCamp responsive web design curriculum.
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/41c838ae55d4e4cfa9836e5f83c282ea68918fa4)
