@@ -599,3 +599,14 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** This project is HTML and CSS only so this portfolio won't be used for job hunting. Yet, I hope it can serve as a foundation for a more 'job research oriented' portfolio. For now, I'm going to implement in this one what I learned during the freeCodeCamp responsive web design curriculum.
 
 **Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/41c838ae55d4e4cfa9836e5f83c282ea68918fa4)
+
+
+### Day 66: June 09 2023
+
+**Today's Progress:** I worked on some animations for the 'about' section of the portfolio. I learned how to bend text using only plain HTML & CSS.
+
+**Thoughts:** I don't know where I'm going with these animations but I have fun doing them and coding wasn't particularly fun lately so I suppose it's a good thing. I learned that bending text in an HTML document isn't as easy as it seems. The recommended way is to use jQuery but this project doesn't include JS. There's also the possibility of using SVG but I'm not confident in manipulating vector. That leaves the time-consuming method of using the CSS transform property to translate/rotate each letter of each word. It's long but, again, I have fun doing it!
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9552a27fe0af5663a2a97fbedb98530f1d75c216)
+
+
