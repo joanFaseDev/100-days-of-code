@@ -610,3 +610,19 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9552a27fe0af5663a2a97fbedb98530f1d75c216)
 
 
+### Day 67: June 10 2023
+
+**Today's Progress:** I'm halfway through the desktop design of the project section. I did a basic layout using CSS Grid and I added a couple of animations when a project screenshot is hovered.
+
+**Thoughts:** Still having fun building this small portfolio of mine. I do most of the work on CodePen which is not as versatile and efficient that Visual Studio Code but is still pleasant to use. Plus I'm learning the shortcuts along the way which is nice because I want to familiarize myself with CodePen to make fast prototypes in the future.
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0475907a151a0c46141272ffa3fde4df279945ba)
+
+
+### Day 68: June 11 2023
+
+**Today's Progress:** I worked on the contact section of the desktop design for the portfolio. I built a series of animations and I have trouble making them fit together. I'm currently working on it.
+
+**Thoughts:** CSS is a really fun language. If anything, this project makes me understand that. For someone like me who is interested in shapes, colors and, visual feedback, CSS has a lot to offer. The really cool thing is I have already a lot of fun when I know so little about the language!
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ef7a417fe3c04835d4251d952955aff1a9fc875a)

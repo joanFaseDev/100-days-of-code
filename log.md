@@ -608,3 +608,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** I don't know where I'm going with these animations but I have fun doing them and coding wasn't particularly fun lately so I suppose it's a good thing. I learned that bending text in an HTML document isn't as easy as it seems. The recommended way is to use jQuery but this project doesn't include JS. There's also the possibility of using SVG but I'm not confident in manipulating vector. That leaves the time-consuming method of using the CSS transform property to translate/rotate each letter of each word. It's long but, again, I have fun doing it!
 
 **Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/9552a27fe0af5663a2a97fbedb98530f1d75c216)
+
+
+### Day 67: June 10 2023
+
+**Today's Progress:** I'm halfway through the desktop design of the project section. I did a basic layout using CSS Grid and I added a couple of animations when a project screenshot is hovered.
+
+**Thoughts:** Still having fun building this small portfolio of mine. I do most of the work on CodePen which is not as versatile and efficient that Visual Studio Code but is still pleasant to use. Plus I'm learning the shortcuts along the way which is nice because I want to familiarize myself with CodePen to make fast prototypes in the future.
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ef7a417fe3c04835d4251d952955aff1a9fc875a)
