@@ -626,3 +626,13 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 **Thoughts:** CSS is a really fun language. If anything, this project makes me understand that. For someone like me who is interested in shapes, colors and, visual feedback, CSS has a lot to offer. The really cool thing is I have already a lot of fun when I know so little about the language!
 
 **Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ef7a417fe3c04835d4251d952955aff1a9fc875a)
+
+
+### Day 68: June 12 2023
+
+**Today's Progress:** I finished the personal portfolio project and got my certification from freeCodeCamp for completed the responsive web design curriculum.
+
+**Thoughts:** By the criteria of freeCodeCamp, my personal portfolio project was indeed finished but, let's be honest, it wasn't responsive. Not in the least. I worked a lot on the animations but neglected to think about how said animations would react to different screen sizes. The answer is: bad. I mean really BAD. Using percentage length unit and absolute positioning turned out to be a mistake because it's really difficult to make the elements responsive if the layout wasn't planned properly... which I didn't.
+So instead of spending a considerable amount of time trying to right my wrongs, I decided to validate my work to freeCodeCamp and start another curriculum while perfecting my HTML/CSS through small projects on CodePen. I think it was a good decision. At least, I know it's the least frustrating one.
+
+**Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/86bbf6cee186eaa4402deedd19c7b3b0480bfd92)
