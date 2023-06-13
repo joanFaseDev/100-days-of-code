@@ -636,3 +636,12 @@ On a separate note, I started the creation of a hamburger menu for the page. I'l
 So instead of spending a considerable amount of time trying to right my wrongs, I decided to validate my work to freeCodeCamp and start another curriculum while perfecting my HTML/CSS through small projects on CodePen. I think it was a good decision. At least, I know it's the least frustrating one.
 
 **Link to work:** [Building a personal portfolio](https://github.com/joanFaseDev/100-days-of-code-projects/commit/86bbf6cee186eaa4402deedd19c7b3b0480bfd92)
+
+
+### Day 69: June 13 2023
+
+**Today's Progress:** I started and finished the freeCodeCamp course on JavaScript basics. I also did a couple of tests on CSS animations.
+
+**Thoughts:** I reviewed JavaScript basics like data types, loops, conditions, objects, arrays, etc, ... I found the spacing of the JavaScript course quite good and, starting tomorrow, I'm going to learn/review ES6 concepts and more modern JavaScript stuff. There are a couple of courses I need to finish before starting the freeCodeCamp JavaScript projects. I want to start it as soon as possible but I don't want to rush the learning phase so it'll probably take a couple of days.
+
+**Link to work:** [Cards Animation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f718371b06c3d013b5db0c743f611b938931fad7)
