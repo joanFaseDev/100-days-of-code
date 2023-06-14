@@ -636,3 +636,12 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 **Thoughts:** I reviewed JavaScript basics like data types, loops, conditions, objects, arrays, etc, ... I found the spacing of the JavaScript course quite good and, starting tomorrow, I'm going to learn/review ES6 concepts and more modern JavaScript stuff. There are a couple of courses I need to finish before starting the freeCodeCamp JavaScript projects. I want to start it as soon as possible but I don't want to rush the learning phase so it'll probably take a couple of days.
 
 **Link to work:** [Cards Animation](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f718371b06c3d013b5db0c743f611b938931fad7)
+
+
+### Day 70: June 14 2023
+
+**Today's Progress:** I started and finished the ES6 course on freeCodeCamp. I also started a tutorial project on CSS Grid.
+
+**Thoughts:** Today's course took me a lot of time to complete but was really interesting. I discovered some ES6 features I wasn't aware of (classes, promises) and reviewed some I rarely use (spread syntax, Rest parameters, and destructuring assignments). I didn't have much opportunity to test all of these features but I'll force myself to implement them in the future freeCodeCamp JS projects. For now, I'm going to follow the course's next step which is RegEx!
+
+**Link to work:** [CSS Grid Demo](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0af4d10979640573423a9f56af9f8bd1dc369641)
