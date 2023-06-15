@@ -645,3 +645,12 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 **Thoughts:** Today's course took me a lot of time to complete but was really interesting. I discovered some ES6 features I wasn't aware of (classes, promises) and reviewed some I rarely use (spread syntax, Rest parameters, and destructuring assignments). I didn't have much opportunity to test all of these features but I'll force myself to implement them in the future freeCodeCamp JS projects. For now, I'm going to follow the course's next step which is RegEx!
 
 **Link to work:** [CSS Grid Demo](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0af4d10979640573423a9f56af9f8bd1dc369641)
+
+
+### Day 71: June 15 2023
+
+**Today's Progress:** I started the regular expressions course on freeCodeCamp.
+
+**Thoughts:** I planned to finish the regular expressions course today but I spend a good part of the afternoon on one of the challenges that, honestly, felt out of place among the other ones. I'm the first to admit that I don't have a programmer mind (I'm working on it) and that I lack logic at times but even then I checked the comments on this particular challenge and apparently I'm not the only one who felt something was wrong. That being said, there are always people to whine so maybe I'm just frustrated and searching for excuses... 
+
+**Link to work:** [Regular Expressions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0a415587db7fb0aac5b8a291cb56b6afd9d5b0eb)
