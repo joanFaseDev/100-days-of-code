@@ -654,3 +654,12 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 **Thoughts:** I planned to finish the regular expressions course today but I spend a good part of the afternoon on one of the challenges that, honestly, felt out of place among the other ones. I'm the first to admit that I don't have a programmer mind (I'm working on it) and that I lack logic at times but even then I checked the comments on this particular challenge and apparently I'm not the only one who felt something was wrong. That being said, there are always people to whine so maybe I'm just frustrated and searching for excuses... 
 
 **Link to work:** [Regular Expressions](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0a415587db7fb0aac5b8a291cb56b6afd9d5b0eb)
+
+
+### Day 72: June 16 2023
+
+**Today's Progress:** I finished the regular expressions course on freeCodeCamp. I also did the debug course and I started the basic data structure one.
+
+**Thoughts:** There are still no projects as I dutifully follow freeCodeCamp JavaScript curriculum. For someone like me that often move without an end goal, following a plan and not distracting myself with other things feel great and peaceful. For now, I'm enjoying the slow pace and trying to practice as much as I learn (I'm piling on Anki cards).
+
+**Link to work:** [Regular Expressions & Data Structures](https://github.com/joanFaseDev/100-days-of-code-projects/commit/09235a443b17587892542f6e53e0a890c792862d)
