@@ -663,3 +663,12 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 **Thoughts:** There are still no projects as I dutifully follow freeCodeCamp JavaScript curriculum. For someone like me that often move without an end goal, following a plan and not distracting myself with other things feel great and peaceful. For now, I'm enjoying the slow pace and trying to practice as much as I learn (I'm piling on Anki cards).
 
 **Link to work:** [Regular Expressions & Data Structures](https://github.com/joanFaseDev/100-days-of-code-projects/commit/09235a443b17587892542f6e53e0a890c792862d)
+
+
+### Day 73: June 17 2023
+
+**Today's Progress:** I finished the basic data structure course on freeCodeCamp. I also am halfway through the basic algorithm scripting course.
+
+**Thoughts:** I really like how the algorithm course is thought of. Most of what is asked, i already did on [codewars.com](https://www.codewars.com/users/joanFaseDev) but on freeCodeCamp you have to complete the challenge without using methods like reduce(), map(), or filter() which means each problem must be thought of step by step to reach the end goal. That course is designed to make users think like programmers and that's something I am lacking tremendously so I am really enjoying the process here.
+
+**Link to work:** [Data Structures & Basic algorithm](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a74e75ea65c620193c59def035286249e64cf35)
