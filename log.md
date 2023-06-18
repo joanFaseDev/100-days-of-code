@@ -672,3 +672,13 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 **Thoughts:** I really like how the algorithm course is thought of. Most of what is asked, i already did on [codewars.com](https://www.codewars.com/users/joanFaseDev) but on freeCodeCamp you have to complete the challenge without using methods like reduce(), map(), or filter() which means each problem must be thought of step by step to reach the end goal. That course is designed to make users think like programmers and that's something I am lacking tremendously so I am really enjoying the process here.
 
 **Link to work:** [Data Structures & Basic algorithm](https://github.com/joanFaseDev/100-days-of-code-projects/commit/2a74e75ea65c620193c59def035286249e64cf35)
+
+
+### Day 74: June 18 2023
+
+**Today's Progress:** I finished the basic algorithm course on freeCodeCamp. I also did more than half the content of the object oriented programming part.
+
+**Thoughts:** The algorithm course made me realize how much I missed JavaScript (I used only HTML and CSS these last weeks). It also made me wonder what a backend developer's work looks like. I thought about becoming a front-end developer because that seemed more visual and appealing to me but now I'm contemplating trying a backend course so as to see by myself if I like it or not.
+I also started the Object Oriented Programming course and am currently learning about prototypes which seems like an interesting subject.
+
+**Link to work:** [Basic algorithm and Object Oriented Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/825c12a7a790ef7e3a5cefa017644d94150d6802)
