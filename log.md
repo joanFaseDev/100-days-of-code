@@ -682,3 +682,12 @@ So instead of spending a considerable amount of time trying to right my wrongs, 
 I also started the Object Oriented Programming course and am currently learning about prototypes which seems like an interesting subject.
 
 **Link to work:** [Basic algorithm and Object Oriented Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/825c12a7a790ef7e3a5cefa017644d94150d6802)
+
+
+### Day 75: June 19 2023
+
+**Today's Progress:** I finished the Object Oriented Programming course on freeCodeCamp.
+
+**Thoughts:** Finishing the OOP course took me longer than I expected but it was interesting. I wondered about closure for a while now but today I learned that I used closer multiple times in the past. I just didn't know it was named like this. I discovered IIFE which means Immediately Invoked Function Expression and feels like something simple to use to solve complicated problems. I'm pretty sure I won't use it for a while. I also learned about mixins which, if I understood correctly, is a smooth way to pass behaviors (methods) when inheritance isn't the best solution. I learned/reviewed a lot and I hope it sticks to my brain because tomorrow I will begin the Functional Programming course and I smell trouble along the way!
+
+**Link to work:** [Object Oriented Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/fb2f23c582420eccc027415fc75e915c3750539c)
