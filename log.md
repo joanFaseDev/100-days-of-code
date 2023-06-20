@@ -691,3 +691,13 @@ I also started the Object Oriented Programming course and am currently learning 
 **Thoughts:** Finishing the OOP course took me longer than I expected but it was interesting. I wondered about closure for a while now but today I learned that I used closer multiple times in the past. I just didn't know it was named like this. I discovered IIFE which means Immediately Invoked Function Expression and feels like something simple to use to solve complicated problems. I'm pretty sure I won't use it for a while. I also learned about mixins which, if I understood correctly, is a smooth way to pass behaviors (methods) when inheritance isn't the best solution. I learned/reviewed a lot and I hope it sticks to my brain because tomorrow I will begin the Functional Programming course and I smell trouble along the way!
 
 **Link to work:** [Object Oriented Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/fb2f23c582420eccc027415fc75e915c3750539c)
+
+
+### Day 76: June 20 2023
+
+**Today's Progress:** I started the Functional Programming course on freeCodeCamp.
+
+**Thoughts:** Functional Programming seems like a deep and exciting subject. The dedicated freeCodeCamp course is well thought and the pace at which each concept is introduced is good. I spend a good amount of time reading articles about function types: pure function, first-class function, higher-order function, lambda function, etc
+It will probably take a fair amount of time for me to really get the concepts of declarative paradigm and side-effects but I feel like I may be more interested in functional programming than in object-oriented programming. Time will tell I suppose.
+
+**Link to work:** [Functional Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0563a9cad1392595799fed3ddd317a8f3e87131a)
