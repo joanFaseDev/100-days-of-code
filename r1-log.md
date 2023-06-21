@@ -710,3 +710,12 @@ I also started the Object Oriented Programming course and am currently learning 
 It will probably take a fair amount of time for me to really get the concepts of declarative paradigm and side-effects but I feel like I may be more interested in functional programming than in object-oriented programming. Time will tell I suppose.
 
 **Link to work:** [Functional Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0563a9cad1392595799fed3ddd317a8f3e87131a)
+
+
+### Day 77: June 21 2023
+
+**Today's Progress:** I finished the Functional Programming course on freeCodeCamp.
+
+**Thoughts:** So far, the Functional Programming course is one of my favorites on freeCodeCamp. I have learned a lot and had plenty of opportunities to practice reduce(), filter(), map(),... Tomorrow, I'll start the last course on algorithms and, after that, I'll have five projects to focus on to gain my JavaScript certification! 
+
+**Link to work:** [Functional Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/beffbb23d795a8e5b74cb1aef1d7acdfb7a1db84)
