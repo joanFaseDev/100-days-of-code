@@ -719,3 +719,12 @@ It will probably take a fair amount of time for me to really get the concepts of
 **Thoughts:** So far, the Functional Programming course is one of my favorites on freeCodeCamp. I have learned a lot and had plenty of opportunities to practice reduce(), filter(), map(),... Tomorrow, I'll start the last course on algorithms and, after that, I'll have five projects to focus on to gain my JavaScript certification! 
 
 **Link to work:** [Functional Programming](https://github.com/joanFaseDev/100-days-of-code-projects/commit/beffbb23d795a8e5b74cb1aef1d7acdfb7a1db84)
+
+
+### Day 78: June 22 2023
+
+**Today's Progress:** I started the Intermediate Algorithm Scripting course on freeCodeCamp.
+
+**Thoughts:** I didn't accomplish much today as I had to deal with personal business. Today is also the day when I switch my OS. Goodbye Microsoft, hello Ubuntu! I had to stop working earlier as I expect that change to bring its share of troubles. More on that tomorrow...
+
+**Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/61d7a519717b58bebccad98a60d808e245d24098)
