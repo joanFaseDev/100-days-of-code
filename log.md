@@ -719,3 +719,13 @@ It will probably take a fair amount of time for me to really get the concepts of
 **Thoughts:** I didn't accomplish much today as I had to deal with personal business. Today is also the day when I switch my OS. Goodbye Microsoft, hello Ubuntu! I had to stop working earlier as I expect that change to bring its share of troubles. More on that tomorrow...
 
 **Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/61d7a519717b58bebccad98a60d808e245d24098)
+
+
+### Day 79: June 23 2023
+
+**Today's Progress:** I continued the Intermediate Algorithm Scripting course and I am now halfway through it.
+
+**Thoughts:** First and foremost, I managed to change my OS from Windows 10 to Ubuntu. It wasn't as simple as I have hoped and to be honest, I didn't quite get how I finally managed to succeed but the result is there, and it's good! Ubuntu is really pleasant to use. I have a lot to get accustomed to but with time and patience I'm sure I'll get the hang of it.
+I set up the minimal requirements to work properly (text editor, ssh key, some extensions) and continued the algorithm course. One surprising thing I learned while solving a problem is that the 'y' character isn't always considered a vowel in English!
+
+**Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9c7c474774b234a92928954dfa7e6b1cbfdeec7)
