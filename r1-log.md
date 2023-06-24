@@ -738,3 +738,12 @@ It will probably take a fair amount of time for me to really get the concepts of
 I set up the minimal requirements to work properly (text editor, ssh key, some extensions) and continued the algorithm course. One surprising thing I learned while solving a problem is that the 'y' character isn't always considered a vowel in English!
 
 **Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f9c7c474774b234a92928954dfa7e6b1cbfdeec7)
+
+
+### Day 80: June 24 2023
+
+**Today's Progress:** I continued the Intermediate Algorithm Scripting course. I'll probably finish it tomorrow.
+
+**Thoughts:** Today I racked my brain on mathematical algorithms. Things like primary number, factorial and Fibonacci always elude me and, it took me a lot of time to understand correctly what was asked in these exercises and how to solve them. I'm slowly getting better at it though.
+
+**Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/b56217be23b64b365561b353667c2d4c708540d2)
