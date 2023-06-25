@@ -738,3 +738,12 @@ I set up the minimal requirements to work properly (text editor, ssh key, some e
 **Thoughts:** Today I racked my brain on mathematical algorithms. Things like primary number, factorial and Fibonacci always elude me and, it took me a lot of time to understand correctly what was asked in these exercises and how to solve them. I'm slowly getting better at it though.
 
 **Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/b56217be23b64b365561b353667c2d4c708540d2)
+
+
+### Day 81: June 25 2023
+
+**Today's Progress:** I finished the Intermediate Algorithm Scripting course.
+
+**Thoughts:** I managed to finish the algorithm course while completing my personal goal: only use functional programming and const declaration. I think I did ok on most exercises except the last one which was focused on Kepler's third law of planetary motion. I didn't understand a single thing about the formula which makes me feel bad because succeeding without 'earning' is pointless to me.
+
+**Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f54262989b0644b2ecd73d28ba0f05d1335159b1)
