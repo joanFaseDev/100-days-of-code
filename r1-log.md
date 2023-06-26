@@ -756,3 +756,12 @@ I set up the minimal requirements to work properly (text editor, ssh key, some e
 **Thoughts:** I managed to finish the algorithm course while completing my personal goal: only use functional programming and const declaration. I think I did ok on most exercises except the last one which was focused on Kepler's third law of planetary motion. I didn't understand a single thing about the formula which makes me feel bad because succeeding without 'earning' is pointless to me.
 
 **Link to work:** [Intermediate Algorithm Scripting](https://github.com/joanFaseDev/100-days-of-code-projects/commit/f54262989b0644b2ecd73d28ba0f05d1335159b1)
+
+
+### Day 82: June 26 2023
+
+**Today's Progress:** I started the projects required to obtain the certification in the JavaScript Algorithms and Data Structures curriculum. Out of the five projects, I completed the Palindrome Checker, the Roman Numeral Converter, and the Caesar's Cipher.
+
+**Thoughts:** These JavaScript projects are enjoyable because they feel like an extension of the previous course. I could add HTML and CSS to each of these projects to make them more visual but I'm eager to start the next curriculum and the projects are only focused on JavaScript anyway. I have already coded a Palindrome Checker a few weeks ago but the two other projects were new to me and I had a ton of fun on them. I hope I feel the same with the last two projects. 
+
+**Link to work:** [Palindrome Checker, Roman Numeral Converter & Caesar Cipher](https://github.com/joanFaseDev/100-days-of-code-projects/commit/61a1dac2effbaade5789d78d3a8d3e568ffef2e1)
