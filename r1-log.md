@@ -765,3 +765,12 @@ I set up the minimal requirements to work properly (text editor, ssh key, some e
 **Thoughts:** These JavaScript projects are enjoyable because they feel like an extension of the previous course. I could add HTML and CSS to each of these projects to make them more visual but I'm eager to start the next curriculum and the projects are only focused on JavaScript anyway. I have already coded a Palindrome Checker a few weeks ago but the two other projects were new to me and I had a ton of fun on them. I hope I feel the same with the last two projects. 
 
 **Link to work:** [Palindrome Checker, Roman Numeral Converter & Caesar Cipher](https://github.com/joanFaseDev/100-days-of-code-projects/commit/61a1dac2effbaade5789d78d3a8d3e568ffef2e1)
+
+
+### Day 83: June 27 2023
+
+**Today's Progress:** I finished the Telephone Number Validator project and started the Cash Register project.
+
+**Thoughts:** The fourth project was easy to complete with regular expressions but the last one, the Cash Register, makes me painfully aware of my poor problem-solving skills. I need to find an efficient way to practice it. 
+
+**Link to work:** [Telephone Number Validator & Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ea7e367b5cebf52ef366e8bfd54f28c735466e25)
