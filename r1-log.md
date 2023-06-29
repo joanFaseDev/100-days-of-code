@@ -774,3 +774,27 @@ I set up the minimal requirements to work properly (text editor, ssh key, some e
 **Thoughts:** The fourth project was easy to complete with regular expressions but the last one, the Cash Register, makes me painfully aware of my poor problem-solving skills. I need to find an efficient way to practice it. 
 
 **Link to work:** [Telephone Number Validator & Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/ea7e367b5cebf52ef366e8bfd54f28c735466e25)
+
+
+### Day 84: June 28 2023
+
+**Today's Progress:** I am still working on the Cash Register Project. I'm currently looking for problem solving methods I can use right away.
+
+**Thoughts:** When working on a project, I have the habit to start coding without having a plan. I have generally an idea and try to follow through but this kind of approach can't take me much further. More and more, I am confronted with projects/exercises I can't solve precisely because of my attitude. That is why I've started looking for methods/bits of advice I can transform into habits to help me solve any problem in the future. 
+
+**Link to work:** [Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/a0f0a31bef50d33d11403e0e5f6b97c3617fe50a)
+
+
+### Day 85: June 29 2023
+
+**Today's Progress:** I wrote a plan to solve the cash register project using pseudo-code and I am currently in the process of implementing it.
+
+**Thoughts:** I read an article about training problem-solving skills by:
+    1. Make sure to understand the problem correctly. What are the inputs and the outputs, create simple examples and more complex ones,...
+    2. Using pseudo-code to devise a plan for the specific problem.
+    3. Carrying out the plan. Don't try to optimize too soon, keep things simple and let what can't be solved yet for later.
+    4. Improve the solution by refactoring or seeing how others solved that specific problem,...
+
+I applied that method to the cash register project and, while I am still unsure of how it will turn out, I can at least say that writing about the problem helped me clarify what I am suppose to do. It also reveal problems that can easily be overlooked.
+
+**Link to work:** [Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6a66e936254c553cfbd58ede1ec730bf66f2199b)
