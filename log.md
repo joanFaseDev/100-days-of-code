@@ -789,3 +789,12 @@ I set up the minimal requirements to work properly (text editor, ssh key, some e
 I applied that method to the cash register project and, while I am still unsure of how it will turn out, I can at least say that writing about the problem helped me clarify what I am suppose to do. It also reveal problems that can easily be overlooked.
 
 **Link to work:** [Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6a66e936254c553cfbd58ede1ec730bf66f2199b)
+
+
+### Day 86: June 30 2023
+
+**Today's Progress:** I finished the cash register project and got my certification for completing the JavaScript curriculum on freeCodeCamp. 
+
+**Thoughts:** This last project was probably the most important I did on freeCodeCamp because it taught me the importance of planning before coding. I have to turn that lesson into a habit to prevent doing the same mistake in the future. To be fair, I should have refactored my code once I completed the course but I have been on this exercise for more than three days and I am eager to start something new. 
+
+**Link to work:** [Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/04ced8061d97268d4444a347dd76407e0385cca4)
