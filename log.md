@@ -798,3 +798,12 @@ I applied that method to the cash register project and, while I am still unsure 
 **Thoughts:** This last project was probably the most important I did on freeCodeCamp because it taught me the importance of planning before coding. I have to turn that lesson into a habit to prevent doing the same mistake in the future. To be fair, I should have refactored my code once I completed the course but I have been on this exercise for more than three days and I am eager to start something new. 
 
 **Link to work:** [Cash Register](https://github.com/joanFaseDev/100-days-of-code-projects/commit/04ced8061d97268d4444a347dd76407e0385cca4)
+
+
+### Day 87: July 01 2023
+
+**Today's Progress:** I started the front-end development libraries curriculum on freeCodeCamp, more specifically the introduction course to bootstrap. I also started the course on Linux to pick up the basics of Ubuntu now that I have switched my OS. 
+
+**Thoughts:** I didn't code much today because I focused more on theory with basic concepts in computer science like ROM/RAM, kernel, distribution, and apt. Many words that I often read but am unable to define. That makes me a lousy programmer so considering I just finished the JavaScript curriculum I thought it was a good time to try to rectify some of my (numerous) flaws. I just hope learning multiple different things at the same time won't turn out to be a huge mistake in the end.  
+
+**Link to work:** [Bootstrap & Introduction to Linux](https://github.com/joanFaseDev/100-days-of-code-projects/commit/5c26269078b7cb9a54306ca1acdb585657a884d2)
