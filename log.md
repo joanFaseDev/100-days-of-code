@@ -807,3 +807,13 @@ I applied that method to the cash register project and, while I am still unsure 
 **Thoughts:** I didn't code much today because I focused more on theory with basic concepts in computer science like ROM/RAM, kernel, distribution, and apt. Many words that I often read but am unable to define. That makes me a lousy programmer so considering I just finished the JavaScript curriculum I thought it was a good time to try to rectify some of my (numerous) flaws. I just hope learning multiple different things at the same time won't turn out to be a huge mistake in the end.  
 
 **Link to work:** [Bootstrap & Introduction to Linux](https://github.com/joanFaseDev/100-days-of-code-projects/commit/5c26269078b7cb9a54306ca1acdb585657a884d2)
+
+
+### Day 88: July 02 2023
+
+**Today's Progress:** I finished both the Bootstrap and jQuery courses of the Front-end Development Libraries curriculum on freeCodeCamp. 
+
+**Thoughts:** This curriculum is pretty interesting so far. Bootstrap is a great tool and I understand why people love it but I find it too verbose and lacking in variety. From what I saw, it's pretty obvious when a web page uses Bootstrap.
+jQuery, on the other end, really strikes me as a formidable tool. The syntax is short and very easy to understand which makes coding faster and simpler. For now, I'm going to chain the different courses. Once I'll start the project, I think I'll try to use jQuery on each of them to familiarize myself with its syntax and particularities.   
+
+**Link to work:** [Bootstrap & jQuery](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e51f54fa6306b07ceb8de5751c91e74251940022)
