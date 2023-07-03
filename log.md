@@ -817,3 +817,12 @@ I applied that method to the cash register project and, while I am still unsure 
 jQuery, on the other end, really strikes me as a formidable tool. The syntax is short and very easy to understand which makes coding faster and simpler. For now, I'm going to chain the different courses. Once I'll start the project, I think I'll try to use jQuery on each of them to familiarize myself with its syntax and particularities.   
 
 **Link to work:** [Bootstrap & jQuery](https://github.com/joanFaseDev/100-days-of-code-projects/commit/e51f54fa6306b07ceb8de5751c91e74251940022)
+
+
+### Day 89: July 03 2023
+
+**Today's Progress:** I finished the Sass course of the Front-end Development Libraries curriculum on freeCodeCamp. 
+
+**Thoughts:** I didn't expect much from the Sass course because I figured that with the actual state of CSS Sass wasn't as relevant as before. I don't know if that is true but I really enjoyed Sass features. The variable syntax is simple and less verbose than CSS's custom properties. The fact that you can nest CSS is great for readability and mixins are just incredible! If I forgot the fact that it took me one hour to install Sass (.bashrc, x64, PATH are new to me), the whole experience was pleasant and I'll probably include Sass in my next projects so I can play around with it!   
+
+**Link to work:** [Sass](https://github.com/joanFaseDev/100-days-of-code-projects/commit/05153958ddb4821b8426df6b587f8a520bbcabec)
