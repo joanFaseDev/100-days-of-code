@@ -826,3 +826,12 @@ jQuery, on the other end, really strikes me as a formidable tool. The syntax is 
 **Thoughts:** I didn't expect much from the Sass course because I figured that with the actual state of CSS Sass wasn't as relevant as before. I don't know if that is true but I really enjoyed Sass features. The variable syntax is simple and less verbose than CSS's custom properties. The fact that you can nest CSS is great for readability and mixins are just incredible! If I forgot the fact that it took me one hour to install Sass (.bashrc, x64, PATH are new to me), the whole experience was pleasant and I'll probably include Sass in my next projects so I can play around with it!   
 
 **Link to work:** [Sass](https://github.com/joanFaseDev/100-days-of-code-projects/commit/05153958ddb4821b8426df6b587f8a520bbcabec)
+
+
+### Day 90: July 04 2023
+
+**Today's Progress:** I started the React course of the Front-end Development Libraries curriculum on freeCodeCamp. 
+
+**Thoughts:** Honestly, I feel overwhelmed. I just learned about Bootstrap, jQuery, and Sass. I didn't spend much time on any of them even if I plan to do so in future projects. Now, I'm learning about React which introduce new concepts like components, props, and hooks (I don't even know what the last one is) and I'm wondering if my modest skills in JavaScript are enough. I thought a little about that and concluded that if I wait to be ready... I'll never be. So I'm going to dive head first into this React course and, when I'll meet JavaScript concepts that elude me, I'll stop to review them until I understand and can go further. Not sure if it is a good plan but I tried the opposite and I think it is a dead end so... let's go!   
+
+**Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1729424711f772604378adaaabf2826e9c574313)
