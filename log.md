@@ -835,3 +835,12 @@ jQuery, on the other end, really strikes me as a formidable tool. The syntax is 
 **Thoughts:** Honestly, I feel overwhelmed. I just learned about Bootstrap, jQuery, and Sass. I didn't spend much time on any of them even if I plan to do so in future projects. Now, I'm learning about React which introduce new concepts like components, props, and hooks (I don't even know what the last one is) and I'm wondering if my modest skills in JavaScript are enough. I thought a little about that and concluded that if I wait to be ready... I'll never be. So I'm going to dive head first into this React course and, when I'll meet JavaScript concepts that elude me, I'll stop to review them until I understand and can go further. Not sure if it is a good plan but I tried the opposite and I think it is a dead end so... let's go!   
 
 **Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/1729424711f772604378adaaabf2826e9c574313)
+
+
+### Day 91: July 05 2023
+
+**Today's Progress:** I kept working on the React course and I am now more than halfway through it. 
+
+**Thoughts:** Today I learned about state in React which seemed like a pretty important subject. The main idea is that updating stateful components automatically updates the UI's parts that depend on it. At least, I think that is how it works. The course introduces a lot of concepts quickly so I'll probably have to spend some days on React documentation once I am done with this part so as to check and double-checked what I learned. 
+
+**Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0ecf34f7c60b377d308fa5ce3c65dbee11a3725b)
