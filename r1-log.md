@@ -853,3 +853,12 @@ jQuery, on the other end, really strikes me as a formidable tool. The syntax is 
 **Thoughts:** Today I learned about state in React which seemed like a pretty important subject. The main idea is that updating stateful components automatically updates the UI's parts that depend on it. At least, I think that is how it works. The course introduces a lot of concepts quickly so I'll probably have to spend some days on React documentation once I am done with this part so as to check and double-checked what I learned. 
 
 **Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/0ecf34f7c60b377d308fa5ce3c65dbee11a3725b)
+
+
+### Day 92: July 06 2023
+
+**Today's Progress:** I finished the React course on freeCodeCamp.
+
+**Thoughts:** The next course is supposed to be an introduction to Redux followed by more React. It is going a little too fast for my taste. I am not feeling confident enough about React (or Sass for that matter) to pursue the curriculum so I am going to take a few days to practice React, review the basics, and learn how to set up a React application (the course automatically set up an environment so I have no idea how to do it),...
+
+**Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/419a84663a6ec4343eeafc737c0e415611dcf3bc)
