@@ -853,3 +853,12 @@ jQuery, on the other end, really strikes me as a formidable tool. The syntax is 
 **Thoughts:** The next course is supposed to be an introduction to Redux followed by more React. It is going a little too fast for my taste. I am not feeling confident enough about React (or Sass for that matter) to pursue the curriculum so I am going to take a few days to practice React, review the basics, and learn how to set up a React application (the course automatically set up an environment so I have no idea how to do it),...
 
 **Link to work:** [React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/419a84663a6ec4343eeafc737c0e415611dcf3bc)
+
+
+### Day 93: July 07 2023
+
+**Today's Progress:** I started the Next.js introduction guide on React/Next.
+
+**Thoughts:** I didn't have much time to code today (being night shift has some drawbacks after all) but I still managed to practice creating basic components and props. Not much to say here except I really like the declarative programming approach of React, it feels more intuitive to me.
+
+**Link to work:** [Next.js guide on React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6d7bfae1150914bf8c523d3f3d3dcf8b72938197)
