@@ -871,3 +871,12 @@ jQuery, on the other end, really strikes me as a formidable tool. The syntax is 
 **Thoughts:** I didn't have much time to code today (being night shift has some drawbacks after all) but I still managed to practice creating basic components and props. Not much to say here except I really like the declarative programming approach of React, it feels more intuitive to me.
 
 **Link to work:** [Next.js guide on React](https://github.com/joanFaseDev/100-days-of-code-projects/commit/6d7bfae1150914bf8c523d3f3d3dcf8b72938197)
+
+
+### Day 94: July 08 2023
+
+**Today's Progress:** I used StackBlitz to set up a React application and a dedicated GitHub repository.
+
+**Thoughts:** I felt confused and lost trying to locally run a React application. Between React, Next.js, Node.js & Babel, there are so many things that are foreign to me and don't feel the least natural or intuitive to work with. I'm not sure if that's specific to React or if other libraries like Vue, Angular, or Svelte work like that too. It makes working on StackBlitz all the better, setting things up was so fast and easy (compared to what I tried to do on my own) that it was almost comical.
+
+**Link to work:** [React Learn](https://github.com/joanFaseDev/stackblitz-learning-react/commit/abb2b3ee62fc7613df7adee5873a11265d54bcda)
